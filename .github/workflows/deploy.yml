@@ -1,7 +1,7 @@
 name: Deploy site to server
 
 on:
-  push
+  push:
   workflow_dispatch:
 
 jobs:
