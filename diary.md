@@ -10,6 +10,8 @@ const weeks = data.diary.map( (el) => el.week ).filter((value, index, array) => 
 
 Si noti che le settimane sono settimane "tematiche", di due lezioni seguite da una esercitazione (quindi da mercoledì al lunedì).
 
+Salvo indicazioni al contrario, tutte le lezioni ed esercitazioni si terrano in **Aula T7**.
+
 <div v-if="data.diary">
 <div v-for="week in weeks">
 
@@ -18,7 +20,7 @@ Si noti che le settimane sono settimane "tematiche", di due lezioni seguite da u
 <ul>
   <li  v-for="diaryItem in data.diary.filter((el) => el.week == week )">
     <div v-if="diaryItem.time">
-    {{ diaryItem.date }}, {{ diaryItem.time }}, {{ diaryItem.room }}: {{ diaryItem.type}} - {{ diaryItem.topic }}
+    {{ diaryItem.date }}, {{ diaryItem.time }}: {{ diaryItem.type}} - {{ diaryItem.topic }}
     </div>
     <div v-else>  <b> {{ diaryItem.date }}:  {{ diaryItem.topic }} </b> </div>
   </li>
