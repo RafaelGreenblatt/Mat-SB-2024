@@ -1,4 +1,4 @@
-<!-- Source data can be edited in /data/diary.csv -->
+<!-- Source data can be edited in /data/diary.csv , /data/weeks.csv -->
 
 <script setup>
 import { data } from './data/csv.data.ts'
@@ -23,6 +23,15 @@ Salvo indicazioni al contrario, tutte le lezioni ed esercitazioni si terrano in 
 
 <div v-for="lettura in data.weeks.filter((el) => el.week == week )">
     Lettura consigliata: Abate sezioni {{ lettura.abate3 }}, BdEM sezioni {{lettura.bem3 }}.
+</div>
+
+<div v-for="exw in data.weeks.filter((el) => el.week == week )">
+ <div v-if='exw.exercises == "ex"'>
+  - Settimana {{week.week}}: <a v-bind:href="'esercizi/esercizi'+week+'.html'"> esercizi</a>
+ </div>
+ <div v-if='exw.exercises == "sol"'>
+  - Settimana {{week.week}}: <a v-bind:href="'esercizi/esercizi'+week+'.html'"> esercizi</a>, <a v-bind:href="'esercizi/soluzioni'+week+'.html'"> soluzioni</a>
+ </div>
 </div>
 
 <ul>
