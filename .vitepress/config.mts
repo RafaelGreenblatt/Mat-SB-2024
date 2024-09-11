@@ -84,5 +84,7 @@ export default defineConfig({
         timeStyle: "short",
       },
     },
-  }
+  },
+  
+  srcExclude: ['**/README.md', 'drafts/**']
 })
