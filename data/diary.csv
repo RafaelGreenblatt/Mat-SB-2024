@@ -1,5 +1,5 @@
 date,time,room,type,topic,week,lec_count,ex_count
-02/10/24,11:00-13:00,Aula T7,Lezione,"Introduzione al corso. Perché ancora un corso di matematica?  Numeri, rappresentazione dei numeri, ripasso di aritmetica.  Nozione di insieme.",1,1,0
+02/10/24,11:00-13:00,Aula T7,Lezione,"Introduzione al corso. Perché ancora un corso di matematica?  Numeri, rappresentazione dei numeri, intervalli. ripasso di aritmetica.  Nozione di insieme, relazioni fra insiemi,",1,1,0
 03/10/24,11:00-13:00,Aula T7,Lezione,Valore assoluto.  Manipolazione di disuguaglianze e uguaglianze.  Logica elementare.,1,2,0
 07/10/24,14:00-17:00,Aula T7,Esercitazioni,,1,2,1
 09/10/24,11:00-13:00,Aula T7,Lezione,Il piano Cartesiano e la rappresentazione di equazioni e disequazioni,2,3,1
@@ -20,7 +20,7 @@ date,time,room,type,topic,week,lec_count,ex_count
 13/11/24,11:00-13:00,Aula T7,Lezione,"Derivate - definizioni, relazione con monotonicità ed estremi, regole di calcolo.",7,13,6
 14/11/24,11:00-13:00,Aula T7,Lezione,Derivate di funzioni trascendentali e composte.  La regola de l’Hôpital.,7,14,6
 18/11/24,14:00-17:00,Aula T7,Esercitazioni,,7,14,7
-20/11/24,11:00-13:00,Aula T7,Lezione,"Integrale definito, la sua relazione con la derivate (le teoremi fondamentali del calcolo), e proprietà",8,15,7
+20/11/24,11:00-13:00,Aula T7,Lezione,"Integrale definito, la sua relazione con la derivata (le teoremi fondamentali del calcolo), e proprietà",8,15,7
 21/11/24,11:00-13:00,Aula T7,Lezione,"Integrale indefinito e primitive di una funzione.  Relazione fra integrali definiti ed indefiniti.  Tecniche di base del calcolo delle integrali, integrali di funzioni comuni.",8,16,7
 25/11/24,14:00-17:00,Aula T7,Esercitazioni,,8,16,8
 27/11/24,11:00-13:00,Aula T7,Lezione,"Integrali per parti e per sostituzione,",9,17,8
