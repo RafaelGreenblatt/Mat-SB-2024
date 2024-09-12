@@ -33,7 +33,7 @@ Gli argomenti sono specificati in più dettaglio nel [diario delle lezioni](diar
 
 ## Testi adottati
 
-- \[**Abate**\]: Marco Abate, *Matematica e statistica: le basi per le scienze della vita* (McGraw-Hill), capitoli 1-9 (NB: ho usato la terza edizione nella preparazione di questa pagina, a breve sarà aggiornato per la quarta edizione). [Pagina dell'editore][ab1] - [Libraccio][abLib4] ([terza edizione][abLib3]) - [Amazon][abAm]
+- \[**Abate**\]: Marco Abate, *Matematica e statistica: le basi per le scienze della vita* (McGraw-Hill), capitoli 1-9 (Quarta edizione; si trova ancora in vendita anche la terza edizione, non molto diversa). [Pagina dell'editore][ab1] - [Libraccio][abLib4] ([terza edizione][abLib3]) - [Amazon][abAm]
 
 [ab1]:https://www.mheducation.it/matematica-e-statistica-4-ed-con-connect-9788838656842-italy
 [abLib4]: https://www.libraccio.it/libro/9788838656842/marco-abate/matematica-e-statistica-basi-per-scienze-della-vita-con-connect.html
