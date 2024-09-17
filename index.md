@@ -2,26 +2,27 @@
 # Matematica - Canale M-Z (Corso di Laurea Triennale in Scienze Biologiche, a.a. 2024-5)
 
 
-Docente: Dott. [Rafael Leon Greenblatt](https://www.mat.uniroma2.it/~greenblatt/)
+Docenti: 
+- Lezioni: Dott. [Rafael Leon Greenblatt](https://www.mat.uniroma2.it/~greenblatt/) - <greenblatt@mat.uniroma2.it>.
+- Esercitazioni: Prof. [Francesco Fidaleo](https://www.mat.uniroma2.it/~fidaleo/)
 
-il [canale Teams del corso][teams] sarà usato per annunci relativi al corso (a.e. annulamento di lezioni).  Potete anche contattarmi per mail, all'indirizzo <greenblatt@mat.uniroma2.it>.
+il [canale Teams del corso][teams] sarà usato per annunci relativi al corso (a.e. annulamento di lezioni).
 
 [teams]:https://teams.microsoft.com/l/team/19%3AUlxchSW2wcljnjd74-Hav_esZItSK4rhH9iDs7ozuMQ1%40thread.tacv2/conversations?groupId=62ab3d9a-6aaa-450f-8b47-780524ddc097&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e
 
-Ricevimento: lunedì 11-12:30 nel periodo delle lezioni (7 ottobre - 9 dicembre) o per appuntamento.
+Ricevimento (Greenblatt): lunedì 11-12:30 nel periodo delle lezioni (7 ottobre - 9 dicembre) o per appuntamento.
 
 
 ## Orario e luogo del corso
 
 Il corso (lezioni e esercitazioni) si svolgerà nell’aula T7,
 
-- le lezioni **mercoledì** e **giovedì** ore 11-13,
+- **lunedì** ore 14-17,
+- **mercoledì** e **giovedì** ore 11-13.
 
-- le esercitazioni **lunedì** ore 14-17.
+Il corso inizierà il **mercoledì 2 ottobre** con una lezione.  Provisoriamente, l'insegnamento concuderà il 9 dicembre.
 
-Il corso inizierà il **mercoledì 2 ottobre** con una lezione.  La conclusione della parte didattica è previsto per il 9 dicembre con le ultime esercitazioni.
-
-Si ricorda che la frequenza alle esercitazioni è obbligatoria per politica del Corso di Laurea, come di pagina 4 della [Guida Didattica][GD].
+Si ricorda che la frequenza alle esercitazioni è obbligatoria per politica del Corso di Laurea, come di pagina 4 della [Guida Didattica][GD].  Dal solito le esercitazioni si terrano giovedì,  vedi il [diario](diary) per dettagli.
 
 [GD]:https://scienze.uniroma2.it/wp-content/uploads/2024/05/GUIDA-LT-CORRETTA-2024_2025.pdf
 
@@ -50,7 +51,7 @@ Gli argomenti sono specificati in più dettaglio nel [diario delle lezioni](diar
 Ambedue conengono materiale che non sarà incluso in questo corso ma che vi potrebbe essere utile nel futuro, particolarmente i capitoli sulla probabilità e statistica.
 
 
-\[Abate\] è un testo più tradizionale e dettagliata (contiene in particolare un eserciziario piuttosto comprensivo, con molti esercizi svolti). \[BdEM\] invece è più ricco di illustrazioni ed esempi del uso della matematica nelle altre scienze (sopratutto nelle scienze biologiche), ma è spesso molto breve nell'esposizione delle concette e tecniche matematiche.
+\[Abate\] è un testo più tradizionale e dettagliata (contiene in particolare un eserciziario piuttosto comprensivo, con molti esercizi svolti), e quindi è quello più autorativo per specificare il contenuto del corso. \[BdEM\] invece è più ricco di illustrazioni ed esempi del uso della matematica nelle altre scienze (sopratutto nelle scienze biologiche), ma è spesso molto breve nell'esposizione delle concette e tecniche matematiche.
 
 ## Valutazione
 

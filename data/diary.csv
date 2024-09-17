@@ -1,31 +1,32 @@
-date,time,room,type,topic,week,lec_count,ex_count
-02/10/24,11:00-13:00,Aula T7,Lezione,"Introduzione al corso. Perché ancora un corso di matematica?  Numeri, rappresentazione dei numeri, intervalli. ripasso di aritmetica.  Nozione di insieme, relazioni fra insiemi,",1,1,0
-03/10/24,11:00-13:00,Aula T7,Lezione,Valore assoluto.  Manipolazione di disuguaglianze e uguaglianze.  Logica elementare.,1,2,0
-07/10/24,14:00-17:00,Aula T7,Esercitazioni,,1,2,1
-09/10/24,11:00-13:00,Aula T7,Lezione,Il piano Cartesiano e la rappresentazione di equazioni e disequazioni,2,3,1
-10/10/24,11:00-13:00,Aula T7,Lezione,Vettori. Distanza e angolo nel piano. Operazioni e equazioni con vettori.  Spazi con più dimensioni.,2,4,1
-14/10/24,14:00-17:00,Aula T7,Esercitazioni,,2,4,2
-16/10/24,11:00-13:00,Aula T7,Lezione,Piani e retti in termini dei vettori.  Sistemi di equazioni lineari.,3,5,2
-17/10/24,11:00-13:00,Aula T7,Lezione,Matrici e trasformazioni lineari.  Operazioni ed equazioni con matrici (e vettori).,3,6,2
-21/10/24,14:00-17:00,Aula T7,Esercitazioni,,3,6,3
-23/10/24,11:00-13:00,Aula T7,Lezione,"Determinanti, autovalori e autovettori",4,7,3
-24/10/24,11:00-13:00,Aula T7,Lezione,Tecniche di calcolo con matrici.  Rango di una matrice e la categorizzazione di sistemi di equazioni lineari,4,8,3
-28/10/24,14:00-17:00,Aula T7,Esercitazioni,,4,8,4
-30/10/24,11:00-13:00,Aula T7,Lezione,"Nozione di funzione.  Grafico di una funzione.  Dominio e rango, monotonicità.  Funzioni lineari e quadratiche.",5,9,4
-31/10/24,11:00-13:00,Aula T7,Lezione,Altre funzioni algebriche. Limiti e continuità,5,10,4
-04/11/24,14:00-17:00,Aula T7,Esercitazioni,,5,10,5
-06/11/24,11:00-13:00,Aula T7,Lezione,"Funzioni esponenziali, logistiche, e logaritmiche",6,11,5
-07/11/24,11:00-13:00,Aula T7,Lezione,Funzioni trigonometriche e periodiche,6,12,5
-11/11/24,14:00-17:00,Aula T7,Esercitazioni,,6,12,6
-13/11/24,11:00-13:00,Aula T7,Lezione,"Derivate - definizioni, relazione con monotonicità ed estremi, regole di calcolo.",7,13,6
-14/11/24,11:00-13:00,Aula T7,Lezione,Derivate di funzioni trascendentali e composte.  La regola de l’Hôpital.,7,14,6
-18/11/24,14:00-17:00,Aula T7,Esercitazioni,,7,14,7
-20/11/24,11:00-13:00,Aula T7,Lezione,"Integrale definito, la sua relazione con la derivata (le teoremi fondamentali del calcolo), e proprietà",8,15,7
-21/11/24,11:00-13:00,Aula T7,Lezione,"Integrale indefinito e primitive di una funzione.  Relazione fra integrali definiti ed indefiniti.  Tecniche di base del calcolo delle integrali, integrali di funzioni comuni.",8,16,7
-25/11/24,14:00-17:00,Aula T7,Esercitazioni,,8,16,8
-27/11/24,11:00-13:00,Aula T7,Lezione,"Integrali per parti e per sostituzione,",9,17,8
-28/11/24,11:00-13:00,Aula T7,Lezione,"Integrali impropri, integrali di funzioni definite a tratti",9,18,8
-02/12/24,14:00-17:00,Aula T7,Esercitazioni,,9,18,9
-04/12/24,11:00-13:00,Aula T7,Lezione,Equazioni differenziali e problemi di Cauchy.  Equazioni notevoli e le loro soluzioni.,10,19,9
-05/12/24,11:00-13:00,Aula T7,Lezione,Soluzioni generali e particolari. Manipolazione di soluzioni di equazioni differenziali.,10,20,9
-09/12/24,14:00-17:00,Aula T7,Esercitazioni,,10,20,10
+date,time,room,type,docente,topic,week,hours,hours_RLG,hours_FF
+02/10/24,11:00-13:00,,Lezione,Greenblatt,"Introduzione al corso. Perché ancora un corso di matematica?  Numeri, rappresentazione dei numeri, intervalli. ripasso di aritmetica.  Nozione di insieme, relazioni fra insiemi,",1,2,2,0
+03/10/24,11:00-13:00,,Lezione/esercitazione,Greenblatt,Valore assoluto.  Manipolazione di disuguaglianze e uguaglianze.  Logica elementare.,1,2,4,0
+09/10/24,11:00-13:00,,Lezione,Greenblatt,"Nozione di funzione.  Grafico di una funzione.  Dominio e rango, monotonicità.  ",2,2,6,0
+10/10/24,11:00-13:00,,Lezione/esercitazione,Greenblatt,Il piano Cartesiano e la rappresentazione di equazioni e disequazioni,2,2,8,0
+14/10/24,14:00-16:00,,Lezione,Greenblatt,Vettori. Distanza e angolo nel piano. Operazioni e equazioni con vettori.  ,3,2,10,0
+16/10/24,11:00-13:00,,Lezione,Greenblatt,Piani e retti in termini di vettori.  Spazi con più dimensioni.,3,2,12,0
+17/10/24,11:00-13:00,,Esercitazione,Fidaleo,,3,2,12,2
+21/10/24,14:00-17:00,,Lezione,Greenblatt,Matrici e trasformazioni lineari.  Operazioni ed equazioni con matrici (e vettori).,4,3,15,2
+23/10/24,11:00-13:00,,Lezione,Greenblatt,"Determinanti, autovalori e autovettori. Tecniche di calcolo con matrici.  Rango di una matrice e la categorizzazione di sistemi di equazioni lineari.",4,2,17,2
+24/10/24,11:00-13:00,,Esercitazione,Fidaleo,,4,2,17,4
+28/10/24,14:00-17:00,,Lezione,Greenblatt,Funzioni lineari e quadratiche.,5,3,20,4
+30/10/24,11:00-13:00,,Lezione,Greenblatt,Altre funzioni algebriche. Limiti e continuità,5,2,22,4
+31/10/24,11:00-13:00,,Esercitazione,Fidaleo,,5,2,22,6
+04/11/24,14:00-17:00,,Lezione,Greenblatt,"Funzioni esponenziali, logistiche, e logaritmiche",6,3,25,6
+06/11/24,11:00-13:00,,Lezione,Greenblatt,Funzioni trigonometriche e periodiche,6,2,27,6
+07/11/24,11:00-13:00,,Esercitazione,Fidaleo,,6,2,27,8
+11/11/24,14:00-17:00,,Lezione,Greenblatt,"Derivate – definizioni, regole di calcolo, derivate di funzioni comuni.  ",7,3,30,8
+13/11/24,11:00-13:00,,Lezione,Greenblatt,Derivate di funzioni trascendentali e composte.  La regola de l’Hôpital.  Funzioni non-derivibili.,7,2,32,8
+14/11/24,11:00-13:00,,Esercitazione,Fidaleo,,7,2,32,10
+18/11/24,14:00-17:00,,Lezione,Greenblatt,"Derivate di ordine superiore. Relazione con monotonicità, estremi, e convessità.",8,3,35,10
+20/11/24,11:00-13:00,,Lezione,Greenblatt,Infinitesimi e infiniti.  La regola de l’Hôpital per il calcolo di limiti.,8,2,37,10
+21/11/24,11:00-13:00,,Esercitazione,Fidaleo,,8,2,37,12
+25/11/24,14:00-17:00,,Lezione,Greenblatt,"Integrale definito, la sua relazione con la derivata (le teoremi fondamentali del calcolo), e proprietà",9,3,40,12
+27/11/24,11:00-13:00,,Lezione,Greenblatt,"Integrale indefinito e primitive di una funzione.  Relazione fra integrali definiti ed indefiniti.  Tecniche di base del calcolo delle integrali, integrali di funzioni comuni.",9,2,42,12
+28/11/24,11:00-13:00,,Esercitazione,Fidaleo,,9,2,42,14
+02/12/24,14:00-17:00,,Lezione,Greenblatt,"Integrali per parti e per sostituzione,",10,3,45,14
+04/12/24,11:00-13:00,,Lezione,Greenblatt,"Integrali impropri, integrali di funzioni definite a tratti",10,2,47,14
+05/12/24,11:00-13:00,,Esercitazione,Fidaleo,,10,2,47,16
+09/12/24,14:00-17:00,,Lezione,Greenblatt,Equazioni differenziali e problemi di Cauchy.  Equazioni notevoli e le loro soluzioni.,11,3,50,16
+10/12/24,11:00-13:00,,Lezione,Greenblatt,Soluzioni generali e particolari. Manipolazione di soluzioni di equazioni differenziali.,11,2,52,16
+11/12/24,11:00-13:00,,Esercitazione,Greenblatt,,11,2,54,16

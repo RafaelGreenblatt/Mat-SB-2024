@@ -10,8 +10,6 @@ const weeks = data.diary.map( (el) => el.week ).filter((value, index, array) => 
 
 Questa pagina è una programma provvisoria con le mie intenzioni per il corso, che man mano sarà modificato per riflettere l'insegnamento realmente erogato.
 
-Si noti che le settimane sono settimane "tematiche", di due lezioni seguite da una esercitazione (quindi da mercoledì al lunedì).  Per ogni settimana sono indicate le sezioni più rilevanti dei [testi di riferimento](index#testi-adottati), che vi consiglio di leggere prima delle lezioni relativi.
-
 Salvo indicazioni al contrario, tutte le lezioni ed esercitazioni si terrano in **Aula T7**.
 
 
@@ -22,7 +20,7 @@ Salvo indicazioni al contrario, tutte le lezioni ed esercitazioni si terrano in 
 ### Settimana {{ week }}
 
 <div v-for="lettura in data.weeks.filter((el) => el.week == week )">
-    Lettura consigliata: Abate sezioni {{ lettura.abate3 }}, BdEM sezioni {{lettura.bem3 }}.
+    Lettura consigliata: Abate sezioni {{ lettura.abate3 }}.
 </div>
 
 <div v-for="exw in data.weeks.filter((el) => el.week == week )">
@@ -34,13 +32,14 @@ Salvo indicazioni al contrario, tutte le lezioni ed esercitazioni si terrano in 
  </div>
 </div>
 
+<!-- Produces the single items, with some conditional formatting.  In particular, 'room', if present, is BOLD -->
 <ul>
   <li  v-for="diaryItem in data.diary.filter((el) => el.week == week )">
     <div v-if="diaryItem.topic">
-    {{ diaryItem.date }}, {{ diaryItem.time }} - {{ diaryItem.type}}: {{ diaryItem.topic }}
+    {{ diaryItem.date }}, {{ diaryItem.time }} <span v-if="diaryItem.room" style="font-weight:bold"> {{ diaryItem.room}} </span> - {{ diaryItem.type}} ({{ diaryItem.docente }}): {{ diaryItem.topic }}
     </div>
     <div v-else> 
-    {{ diaryItem.date }}, {{ diaryItem.time }}: {{ diaryItem.type}}
+    {{ diaryItem.date }}, {{ diaryItem.time }}<span v-if="diaryItem.room" style="font-weight:bold"> {{ diaryItem.room}} </span>: {{ diaryItem.type}} ({{ diaryItem.docente }})
     </div>
   </li>
 </ul>
@@ -49,6 +48,6 @@ Salvo indicazioni al contrario, tutte le lezioni ed esercitazioni si terrano in 
 
 ### Eventuale lezioni di ricupero
 
-Se necessario per annulamento di lezioni o altri eventualità, ci potrebbero essere lezioni o esercitazioni nel periodo 11-19 dicembre, nei giorni ed orari consueti.
+Se necessario per annulamento di lezioni o altri eventualità, ci potrebbero essere lezioni o esercitazioni nel periodo 12-19 dicembre, nei giorni ed orari consueti.
 
 </div>
