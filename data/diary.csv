@@ -1,32 +1,32 @@
-date,time,room,type,docente,topic,week,hours,hours_RLG,hours_FF
-02/10/24,11:00-13:00,,Lezione,Greenblatt,"Introduzione al corso. Perché ancora un corso di matematica?  Numeri, rappresentazione dei numeri, intervalli. ripasso di aritmetica.  Nozione di insieme, relazioni fra insiemi,",1,2,2,0
-03/10/24,11:00-13:00,,Lezione/esercitazione,Greenblatt,Valore assoluto.  Manipolazione di disuguaglianze e uguaglianze.  Logica elementare.,1,2,4,0
-09/10/24,11:00-13:00,,Lezione,Greenblatt,"Nozione di funzione.  Grafico di una funzione.  Dominio e rango, monotonicità.  ",2,2,6,0
-10/10/24,11:00-13:00,,Lezione/esercitazione,Greenblatt,Il piano Cartesiano e la rappresentazione di equazioni e disequazioni,2,2,8,0
-14/10/24,14:00-16:00,,Lezione,Greenblatt,Vettori. Distanza e angolo nel piano. Operazioni e equazioni con vettori.  ,3,2,10,0
-16/10/24,11:00-13:00,,Lezione,Greenblatt,Piani e retti in termini di vettori.  Spazi con più dimensioni.,3,2,12,0
-17/10/24,11:00-13:00,,Esercitazione,Fidaleo,,3,2,12,2
-21/10/24,14:00-17:00,,Lezione,Greenblatt,Matrici e trasformazioni lineari.  Operazioni ed equazioni con matrici (e vettori).,4,3,15,2
-23/10/24,11:00-13:00,,Lezione,Greenblatt,"Determinanti, autovalori e autovettori. Tecniche di calcolo con matrici.  Rango di una matrice e la categorizzazione di sistemi di equazioni lineari.",4,2,17,2
-24/10/24,11:00-13:00,,Esercitazione,Fidaleo,,4,2,17,4
-28/10/24,14:00-17:00,,Lezione,Greenblatt,Funzioni algebriche.  Limite e continuità.,5,3,20,4
-30/10/24,11:00-13:00,,Lezione,Greenblatt,"Funzioni esponenziali, logistiche, e logaritmiche. Funzioni trigonometriche e periodiche.",5,2,22,4
-31/10/24,11:00-13:00,,Esercitazione,Fidaleo,,5,2,22,6
-04/11/24,14:00-17:00,,Lezione,Greenblatt,"Derivate – definizioni, regole di calcolo, derivate di funzioni comuni.  ",6,3,25,6
-06/11/24,11:00-13:00,,Lezione,Greenblatt,Derivate di funzioni trascendentali e composte.  La regola de l’Hôpital.  Funzioni non-derivibili.,6,2,27,6
-07/11/24,11:00-13:00,,Esercitazione,Fidaleo,,6,2,27,8
-11/11/24,14:00-17:00,,Lezione,Greenblatt,"Derivate di ordine superiore. Relazione con monotonicità, estremi, e convessità.",7,3,30,8
-13/11/24,11:00-13:00,,Lezione,Greenblatt,Infinitesimi e infiniti.  La regola de l’Hôpital per il calcolo di limiti.,7,2,32,8
-14/11/24,11:00-13:00,,Esercitazione,Fidaleo,,7,2,32,10
-18/11/24,14:00-17:00,,Lezione,Greenblatt,"Integrale definito, la sua relazione con la derivata (le teoremi fondamentali del calcolo), e proprietà",8,3,35,10
-20/11/24,11:00-13:00,,Lezione,Greenblatt,"Integrale indefinito e primitive di una funzione.  Relazione fra integrali definiti ed indefiniti.  Tecniche di base del calcolo delle integrali, integrali di funzioni comuni.",8,2,37,10
-21/11/24,11:00-13:00,,Esercitazione,Fidaleo,,8,2,37,12
-25/11/24,14:00-17:00,,Lezione,Greenblatt,"Integrali per parti e per sostituzione,",9,3,40,12
-27/11/24,11:00-13:00,,Lezione,Greenblatt,"Integrali impropri, integrali di funzioni definite a tratti",9,2,42,12
-28/11/24,11:00-13:00,,Esercitazione,Fidaleo,,9,2,42,14
-02/12/24,14:00-17:00,,Lezione,Greenblatt,Equazioni differenziali e problemi di Cauchy.  Equazioni notevoli e le loro soluzioni.,10,3,45,14
-04/12/24,11:00-13:00,,Lezione,Greenblatt,Soluzioni generali e particolari. Manipolazione di soluzioni di equazioni differenziali.,10,2,47,14
-05/12/24,11:00-13:00,,Esercitazione,Fidaleo,,10,2,47,16
-09/12/24,14:00-17:00,,Lezione,Greenblatt,Ripasso.,11,3,50,16
-10/12/24,11:00-13:00,,Lezione,Greenblatt,Ripasso.,11,2,52,16
-11/12/24,11:00-13:00,,Esercitazione,Greenblatt,,11,2,54,16
+"date","time","room","type","docente","topic","week","hours","hours_RLG","hours_FF"
+02/10/24,"11:00-13:00",,"Lezione","Greenblatt","Introduzione al corso. Perché ancora un corso di matematica?  Numeri, rappresentazione dei numeri, intervalli. Ripasso di aritmetica.  Nozione di insieme, relazioni fra insiemi.",1,2,2,0
+03/10/24,"11:00-13:00",,"Lezione/esercitazione","Greenblatt","Valore assoluto.  Manipolazione di disuguaglianze e uguaglianze.  Logica elementare.",1,2,4,0
+09/10/24,"11:00-13:00",,"Lezione","Greenblatt","Nozione di funzione.  Grafico di una funzione.  Dominio e rango, monotonicità.  ",2,2,6,0
+10/10/24,"11:00-13:00",,"Lezione/esercitazione","Greenblatt","Il piano Cartesiano e la rappresentazione di equazioni e disequazioni",2,2,8,0
+"14/10/24","14:00-16:00",,"Lezione","Greenblatt","Vettori. Distanza e angolo nel piano. Operazioni e equazioni con vettori.  ",3,2,10,0
+"16/10/24","11:00-13:00",,"Lezione","Greenblatt","Piani e retti in termini di vettori.  Spazi con più dimensioni.",3,2,12,0
+"17/10/24","11:00-13:00",,"Esercitazione","Fidaleo",,3,2,12,2
+"21/10/24","14:00-17:00",,"Lezione","Greenblatt","Matrici e trasformazioni lineari.  Operazioni ed equazioni con matrici (e vettori).",4,3,15,2
+"23/10/24","11:00-13:00",,"Lezione","Greenblatt","Determinanti, autovalori e autovettori. Tecniche di calcolo con matrici.  Rango di una matrice e la categorizzazione di sistemi di equazioni lineari.",4,2,17,2
+"24/10/24","11:00-13:00",,"Esercitazione","Fidaleo",,4,2,17,4
+"28/10/24","14:00-17:00",,"Lezione","Greenblatt","Funzioni algebriche.  Limite e continuità.",5,3,20,4
+"30/10/24","11:00-13:00",,"Lezione","Greenblatt","Funzioni esponenziali, logistiche, e logaritmiche. Funzioni trigonometriche e periodiche.",5,2,22,4
+"31/10/24","11:00-13:00",,"Esercitazione","Fidaleo",,5,2,22,6
+04/11/24,"14:00-17:00",,"Lezione","Greenblatt","Derivate – definizioni, regole di calcolo, derivate di funzioni comuni.  ",6,3,25,6
+06/11/24,"11:00-13:00",,"Lezione","Greenblatt","Derivate di funzioni trascendentali e composte.  La regola de l’Hôpital.  Funzioni non-derivibili.",6,2,27,6
+07/11/24,"11:00-13:00",,"Esercitazione","Fidaleo",,6,2,27,8
+11/11/24,"14:00-17:00",,"Lezione","Greenblatt","Derivate di ordine superiore. Relazione con monotonicità, estremi, e convessità.",7,3,30,8
+"13/11/24","11:00-13:00",,"Lezione","Greenblatt","Infinitesimi e infiniti.  La regola de l’Hôpital per il calcolo di limiti.",7,2,32,8
+"14/11/24","11:00-13:00",,"Esercitazione","Fidaleo",,7,2,32,10
+"18/11/24","14:00-17:00",,"Lezione","Greenblatt","Integrale definito, la sua relazione con la derivata (le teoremi fondamentali del calcolo), e proprietà",8,3,35,10
+"20/11/24","11:00-13:00",,"Lezione","Greenblatt","Integrale indefinito e primitive di una funzione.  Relazione fra integrali definiti ed indefiniti.  Tecniche di base del calcolo delle integrali, integrali di funzioni comuni.",8,2,37,10
+"21/11/24","11:00-13:00",,"Esercitazione","Fidaleo",,8,2,37,12
+"25/11/24","14:00-17:00",,"Lezione","Greenblatt","Integrali per parti e per sostituzione,",9,3,40,12
+"27/11/24","11:00-13:00",,"Lezione","Greenblatt","Integrali impropri, integrali di funzioni definite a tratti",9,2,42,12
+"28/11/24","11:00-13:00",,"Esercitazione","Fidaleo",,9,2,42,14
+02/12/24,"14:00-17:00",,"Lezione","Greenblatt","Equazioni differenziali e problemi di Cauchy.  Equazioni notevoli e le loro soluzioni.",10,3,45,14
+04/12/24,"11:00-13:00",,"Lezione","Greenblatt","Soluzioni generali e particolari. Manipolazione di soluzioni di equazioni differenziali.",10,2,47,14
+05/12/24,"11:00-13:00",,"Esercitazione","Fidaleo",,10,2,47,16
+09/12/24,"14:00-17:00",,"Lezione","Greenblatt","Ripasso.",11,3,50,16
+10/12/24,"11:00-13:00",,"Lezione","Greenblatt","Ripasso.",11,2,52,16
+11/12/24,"11:00-13:00",,"Esercitazione","Greenblatt",,11,2,54,16

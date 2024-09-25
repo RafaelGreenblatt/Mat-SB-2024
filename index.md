@@ -10,7 +10,7 @@ il [canale Teams del corso][teams] sarà usato per annunci relativi al corso (a.
 
 [teams]:https://teams.microsoft.com/l/team/19%3AUlxchSW2wcljnjd74-Hav_esZItSK4rhH9iDs7ozuMQ1%40thread.tacv2/conversations?groupId=62ab3d9a-6aaa-450f-8b47-780524ddc097&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e
 
-Ricevimento (Greenblatt): lunedì 11-12:30 nel periodo delle lezioni (7 ottobre - 9 dicembre) o per appuntamento.
+Ricevimento (Greenblatt): lunedì 11-12:30 a partire del 14 ottobre, o per appuntamento.
 
 
 ## Orario e luogo del corso

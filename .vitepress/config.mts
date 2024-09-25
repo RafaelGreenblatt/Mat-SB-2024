@@ -62,8 +62,7 @@ export default defineConfig({
     
     sidebar: [
         { text: "Home", link: "/"},
-        { text: "Diario delle lezioni", link: "diary"},
-        { text: "Esercitazioni", link: "esercizi"}
+        { text: "Diario delle lezioni", link: "diary"}
     ],
 
     locales: {
