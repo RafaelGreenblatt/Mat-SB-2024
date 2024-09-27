@@ -48,6 +48,6 @@ Salvo indicazioni al contrario, tutte le lezioni ed esercitazioni si terrano in 
 
 ### Eventuale lezioni di ricupero
 
-Se necessario per annulamento di lezioni o altri eventualità, ci potrebbero essere lezioni o esercitazioni nel periodo 12-19 dicembre, nei giorni ed orari consueti.
+Se necessario per annulamento di lezioni o altri eventualità, ci potrebbero essere lezioni o esercitazioni nel periodo 16-19 dicembre, nei giorni ed orari consueti.
 
 </div>
