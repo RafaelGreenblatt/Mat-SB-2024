@@ -5,3 +5,5 @@ When setting up on a new computer, make sure node.js is installed, then run "npm
 Branch *master* deplys [here](https://www.mat.uniroma2.it/~greenblatt/matbio24/) automatically; folder /drafts/ is excluded, as is this file.
 
 notation.md defines latex macros for other files (this should be included automatically)
+
+Associated: script `topdf.sh` uses `pandoc` to create pdf from `.md` file.  Usage: `topdf filename` takes `filename.md` and combines it with `notation.md` to produce `filename.pdf` (idea is to produce PDFs for Florin)
