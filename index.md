@@ -1,10 +1,12 @@
 
 # Matematica - Canale M-Z (Corso di Laurea Triennale in Scienze Biologiche, a.a. 2024-5)
 
+[Il sito del canale A-L si trova qui.](https://www.mat.uniroma2.it/~radulesc/matematica.html)
+
 
 Docenti: 
 - Lezioni: Dott. [Rafael Leon Greenblatt](https://www.mat.uniroma2.it/~greenblatt/) - <greenblatt@mat.uniroma2.it>.
-- Esercitazioni: Prof. [Francesco Fidaleo](https://www.mat.uniroma2.it/~fidaleo/)
+- Esercitazioni: Prof. [Francesco Fidaleo](https://www.mat.uniroma2.it/~fidaleo/) 
 
 il [canale Teams del corso][teams] sarà usato per annunci relativi al corso (a.e. annulamento di lezioni).
 

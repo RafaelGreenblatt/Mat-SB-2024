@@ -3,6 +3,7 @@ import mdImplicitFigures from "markdown-it-implicit-figures";
 import mdSuperscript from "markdown-it-sup";
 import MarkdownIt from "markdown-it";
 import mdContainer from "markdown-it-container";
+import {markdownItFancyListPlugin} from "markdown-it-fancy-lists";
 
 const figuresSetup = {
   figcaption: "title",
@@ -42,15 +43,17 @@ export default defineConfig({
   lastUpdated: true,
   
    markdown: {
+    container: {
+	    detailsLabel: 'Soluzione',
+	    tipLabel: 'Consiglio'
+    },
     math: true,
     config: (md) => {
-      md.use(mdImplicitFigures, figuresSetup)
-        .use(mdSuperscript)
-        .use(mdContainer, ...containerSetup(md, "theorem", "Theorem", "tip"))
-        .use(
-          mdContainer,
-          ...containerSetup(md, "definition", "Definition", "tip")
-        );
+	    md.use(markdownItFancyListPlugin)
+	    ;
+      //md.use(mdImplicitFigures, figuresSetup, markdownItFancyListPlugin)
+      //  .use(mdSuperscript)
+      //  ;
     },
   },
   
