@@ -26,14 +26,34 @@ Let $B$ be the set of drosofila with white eyes
 
 ## Esercizio
 
-Risolvi le sequenti disequazioni, scrivendo il risultato in termini di intervalli.
-
-Esempio - $x - 15 < 4$:
-
-$$x - 15 < 4 \Leftrightarrow x < 19 \Leftrightarrow \boxed{ x \in (-\infty,19)} $$
+Risolvi le sequenti disequazioni.
 
 1.  $5 x - 8 \le 12$
+2. $-2 x + 5 > x - 7$
+3. $\frac{x-1}3 + \frac{x+2}5 \le \frac35$
 
+::: details
+
+1. $5x-8 \le 12 \to 5 x \le 20 \to \boxed{ x \le 4 }$
+2. $-2 x + 5 > x - 7 \to - 3 x > -12 \to x < 4 \to \boxed{x < \frac13}$
+3. $\frac{x-1}3 + \frac{x+2}5 \le \frac35 \to 5x-5 +3x+6 \le 9 \to 8 x + 1 \le 9 \to \boxed{x \le 1}$
+:::
+
+## Esercizio
+
+
+Risolvi le sequenti disequazioni, scrivendo il risultato come un intervallo.
+
+1. $|5x-1| > 14$
+2. $|3x+2| + 1 \le 9$
+3. $|x-3| < -4$
+
+::: details
+
+1. $|5x-1| > 14 \to -14 < 5 x -1 < 14 \to -13 < 5x < 15 \to \frac{-13}5 < x < 3 \to \boxed{ x \in \left(-\frac{13}5,3\right) }$
+2. $|3x+2| + 1 \le 9 \to |3x+2| \le 8 \to -8 \le 3x+2 \le 8 \to -10 \le 3x \le 6 \to x \in \left[ -\frac{10}3, 2\right]$
+3. Il valore assoluto è sempre positivo, quindi questa disuguaglianze è sempre falso; $\boxed{x \in \emptyset}$.  Per vedere questo in altro modo, iniziando come sopra otteniamo $4 < x-3 < -4$, quindi $4 < -4$, che è impossibile.
+:::
 ## Domanda
 
 Sia $a \le b$, $c > b$.  Quali delle delle affermazioni seguenti sono vere?
@@ -45,7 +65,7 @@ Sia $a \le b$, $c > b$.  Quali delle delle affermazioni seguenti sono vere?
 
 :::details Soluzione
 Riscrivendo,
-$$a \le b < c \Rightarrow a < c,$$
+$$a \le b < c \to a < c,$$
 ma se questo è vero, è anche vero che $a \le c$.  Quindo, sono vere $\boxed{\text{1 e 2}}$.
 :::
 
@@ -87,13 +107,13 @@ v_y + e_y = 8.12
 \\
 v_y - e_y=6.2
 \end{cases}
-\Rightarrow
+\to
 \begin{cases}
 2 v_y = 8.12 + 6.2 = 14.32
 \\
 2 e_y= 8.12 - 6.2 = 1.92
 \end{cases}
-\Rightarrow
+\to
 \begin{cases}
 v_y = 7.16
 \\
