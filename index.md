@@ -22,9 +22,9 @@ Il corso (lezioni e esercitazioni) si svolgerà nell’aula T7,
 - **lunedì** ore 14-17,
 - **mercoledì** e **giovedì** ore 11-13.
 
-Il corso inizierà il **mercoledì 2 ottobre** con una lezione.  Provisoriamente, l'insegnamento concuderà il 9 dicembre.
+Il corso inizierà il **mercoledì 2 ottobre** con una lezione.  Provisoriamente, l'insegnamento concuderà il 12 dicembre.
 
-Si ricorda che la frequenza alle esercitazioni è obbligatoria per politica del Corso di Laurea, come di pagina 4 della [Guida Didattica][GD].  Dal solito le esercitazioni si terrano giovedì,  vedi il [diario](diary) per dettagli.
+Si ricorda che la frequenza alle esercitazioni (cioè giovedì) è obbligatoria per politica del Corso di Laurea, come di pagina 4 della [Guida Didattica][GD].
 
 [GD]:https://scienze.uniroma2.it/wp-content/uploads/2024/05/GUIDA-LT-CORRETTA-2024_2025.pdf
 
