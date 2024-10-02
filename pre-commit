@@ -5,6 +5,11 @@
 # it wants to stop the commit.
 #
 
+for filename in esercizi/esercizi?.md; do
+    perl -0777 -pe 's/:::\s*details.*?::://gs' <$filename> "esercizi/$(basename "$filename" .md)_nosoln.md"
+    git add "esercizi/$(basename "$filename" .md)_nosoln.md"
+done
+
 for filename in esercizi/*.md; do
 	cat notation.md | sed -e 's/\$\$\s*//g' > _topdf.md
 	cat "$filename" | sed -e 's/\\\$/\$/g' -e 's/:::\s*details.*/\Soluzione: \n\n/g' -e 's/:::.*//g'>> _topdf.md

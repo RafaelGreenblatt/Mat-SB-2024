@@ -52,6 +52,21 @@ $$a \le b < c \to a < c,$$
 ma se questo è vero, è anche vero che $a \le c$.  Quindo, sono vere $\boxed{\text{1 e 2}}$.
 :::
 
+## Domanda
+
+Quali delle secondi sono vere?
+
+1. $\forall n \in \bN, \ n \ge 0$
+2. $\forall n \in \bZ, \ n \ge 0$
+3. $\exists n \in \bN: \ n \ge 0$
+4. $\exists n \in \bZ : \ n \ge 0$
+
+::: details
+1. Vero
+2. Falso
+3. Vero
+4. Vero
+:::
 
 
 <style scoped>
