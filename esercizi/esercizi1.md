@@ -45,7 +45,7 @@ ovvero $\boxed{y = 7.16 \pm 0.96}$.
 
 ## Esercizio
 
-Sia $x = \frac{a}{b}$, con $a = 7 \pm 11$, $b = 1.0 \pm 1.5.  Scrivere $x$ con un valore stimato ed errore assoluto.
+Sia $x = \frac{a}{b}$, con $a = 7 \pm 11$, $b = 1.0 \pm 1.5$.  Scrivere $x$ con un valore stimato ed errore assoluto.
 
 ::: details
 Iniziando come nell'esercizio precedente, abbiamo
