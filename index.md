@@ -8,7 +8,7 @@ Docenti:
 - Lezioni: Dott. [Rafael Leon Greenblatt](https://www.mat.uniroma2.it/~greenblatt/) - <greenblatt@mat.uniroma2.it>.
 - Esercitazioni: Prof. [Francesco Fidaleo](https://www.mat.uniroma2.it/~fidaleo/) 
 
-il [canale Teams del corso][teams] sarà usato per annunci relativi al corso (a.e. annulamento di lezioni).
+il [canale Teams del corso][teams] sarà usato per annunci relativi al corso (a.e. annulamento di lezioni); potete usare il codice `5lk80ta1` per facilitare l'iscrizione.
 
 [teams]:https://teams.microsoft.com/l/team/19%3AUlxchSW2wcljnjd74-Hav_esZItSK4rhH9iDs7ozuMQ1%40thread.tacv2/conversations?groupId=62ab3d9a-6aaa-450f-8b47-780524ddc097&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e
 
