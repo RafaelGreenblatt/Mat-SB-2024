@@ -3,6 +3,7 @@ import mdImplicitFigures from "markdown-it-implicit-figures";
 import mdSuperscript from "markdown-it-sup";
 import MarkdownIt from "markdown-it";
 import mdContainer from "markdown-it-container";
+import amsmathPlugin from "markdown-it-amsmath";
 import {markdownItFancyListPlugin} from "markdown-it-fancy-lists";
 
 const figuresSetup = {
@@ -51,6 +52,7 @@ export default defineConfig({
     config: (md) => {
 	    md.use(markdownItFancyListPlugin)
 	    ;
+	    md.use(amsmathPlugin);
       //md.use(mdImplicitFigures, figuresSetup, markdownItFancyListPlugin)
       //  .use(mdSuperscript)
       //  ;

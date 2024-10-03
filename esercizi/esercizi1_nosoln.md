@@ -69,7 +69,7 @@ Risolvi le sequenti disequazioni.
 ## Esercizio
 
 
-Risolvi le sequenti disequazioni, scrivendo il risultato come un intervallo.
+Risolvi le sequenti disequazioni, scrivendo il risultato in termini di intervalli.
 
 1. $|5x-1| > 14$
 2. $|3x+2| + 1 \le 9$

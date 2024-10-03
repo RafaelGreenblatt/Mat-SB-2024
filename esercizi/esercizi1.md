@@ -106,15 +106,53 @@ Risolvi le sequenti disequazioni.
 
 ::: details
 
-1. $5x-8 \le 12 \to 5 x \le 20 \to \boxed{ x \le 4 }$
-2. $-2 x + 5 > x - 7 \to - 3 x > -12 \to x < 4 \to \boxed{x < \frac13}$
-3. $\frac{x-1}3 + \frac{x+2}5 \le \frac35 \to 5x-5 +3x+6 \le 9 \to 8 x + 1 \le 9 \to \boxed{x \le 1}$
+1. 
+$$
+\begin{aligned}
+	&
+	5x-8 \le 12 
+	\\
+	\Leftrightarrow \  &
+	5 x \le 20 
+	\\
+	\Leftrightarrow \  &
+	\boxed{ x \le 4 }
+\end{aligned}
+$$
+2. 
+$$
+\begin{aligned}
+	&
+	-2 x + 5 > x - 7 
+	\\ \Leftrightarrow \  &
+	- 3 x > -12 
+	\\ \Leftrightarrow \  &
+	3 x < 12 
+	\\ \Leftrightarrow \  &
+	x < 4 
+	\\ \Leftrightarrow \  &
+	\boxed{x < \frac13}
+\end{aligned}
+$$
+3.
+$$ 
+\begin{aligned}
+	&
+	\frac{x-1}3 + \frac{x+2}5 \le \frac35 
+	\\ \Leftrightarrow \  &
+	5x-5 +3x+6 \le 9 
+	\\ \Leftrightarrow \  &
+	8 x + 1 \le 9 
+	\\ \Leftrightarrow \  &
+	\boxed{x \le 1}
+\end{aligned}
+$$
 :::
 
 ## Esercizio
 
 
-Risolvi le sequenti disequazioni, scrivendo il risultato come un intervallo.
+Risolvi le sequenti disequazioni, scrivendo il risultato in termini di intervalli.
 
 1. $|5x-1| > 14$
 2. $|3x+2| + 1 \le 9$
@@ -122,8 +160,41 @@ Risolvi le sequenti disequazioni, scrivendo il risultato come un intervallo.
 
 ::: details
 
-1. $|5x-1| > 14 \to -14 < 5 x -1 < 14 \to -13 < 5x < 15 \to \frac{-13}5 < x < 3 \to \boxed{ x \in \left(-\frac{13}5,3\right) }$
-2. $|3x+2| + 1 \le 9 \to |3x+2| \le 8 \to -8 \le 3x+2 \le 8 \to -10 \le 3x \le 6 \to x \in \boxed{\left[ -\frac{10}3, 2\right]}$
+1. 
+$$
+\begin{aligned}
+	& |5x-1|  > 14 
+	\\  
+	\Leftrightarrow \  &
+	5 x -1 < -14 \text{ oppure } 5x - 1 > 14 
+	\\  
+	\Leftrightarrow \ &
+	5 x < -13 \text{ oppure } 5x  > 15 
+	\\  
+	\Leftrightarrow \ &
+	x < \frac{13}5 \text{ oppure } x  >3 
+	\\  
+	\Leftrightarrow \ &
+	\boxed{x \in  (-\infty, \tfrac{13}5) \cup (3,\infty)}
+\end{aligned}
+$$
+Equivalentemente il risultato può essere scritto $\boxed{x \in [\tfrac{13}5,4]^C}$.
+
+2. 
+$$
+\begin{aligned}
+	&
+	|3x+2| + 1 \le 9 
+	\\ \Leftrightarrow \ &
+	|3x+2| \le 8 
+	\\ \Leftrightarrow \ &
+	-8 \le 3x+2 \le 8 
+	\\ \Leftrightarrow \ &
+	-10 \le 3x \le 6 
+	\\ \Leftrightarrow \ &
+	x \in \boxed{\left[ -\frac{10}3, 2\right]}
+\end{aligned}
+$$
 3. Il valore assoluto è sempre positivo, quindi questa disuguaglianze è sempre falso; $\boxed{x \in \emptyset}$.  Per vedere questo in altro modo, iniziando come sopra otteniamo $4 < x-3 < -4$, quindi $4 < -4$, che è impossibile.
 :::
 
