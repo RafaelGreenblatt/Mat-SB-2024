@@ -53,7 +53,8 @@ export default defineConfig({
 	    md.use(markdownItFancyListPlugin)
 	    ;
 	    md.use(amsmathPlugin);
-      //md.use(mdImplicitFigures, figuresSetup, markdownItFancyListPlugin)
+        md.use(mdImplicitFigures, {figuresSetup, figcaption : true});
+      //  md.use(figuresSetup);
       //  .use(mdSuperscript)
       //  ;
     },
