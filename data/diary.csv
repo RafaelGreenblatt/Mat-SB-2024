@@ -1,8 +1,8 @@
 "date","time","room","type","docente","topic","week","hours","hours_RLG","hours_FF"
 02/10/24,"11:00-13:00",,"Lezione","Greenblatt","Introduzione al corso. Perché ancora un corso di matematica?  Numeri, rappresentazione dei numeri, intervalli. Ripasso di aritmetica.  Nozione di insieme.",1,2,2,0
 03/10/24,"11:00-13:00",,"Lezione/esercitazione","Greenblatt"," Logica elementare (implicazione, ∃, ∀).  Relazioni fra insiemi, manipolazione di intervalli.   Valore assoluto.  Manipolazione (e risoluzione) di disuguaglianze. ",1,2,4,0
-09/10/24,"11:00-13:00",,"Lezione","Greenblatt","Nozione di funzione.  Grafico di una funzione.  Dominio e rango, monotonicità.  ",2,2,6,0
-10/10/24,"11:00-13:00",,"Lezione/esercitazione","Greenblatt","Il piano Cartesiano e la rappresentazione di equazioni e disequazioni",2,2,8,0
+09/10/24,"11:00-13:00",,"Lezione","Greenblatt","Funzioni; dominio, codominio, immagine.  Composizione di funzioni.  Piano Cartesiano.  Grafici di funzioni, di equazioni, e di diesquazioni.",2,2,6,0
+10/10/24,"11:00-13:00",,"Lezione/esercitazione","Greenblatt","Funzioni invertibili e le loro inversi",2,2,8,0
 "14/10/24","14:00-16:00",,"Lezione","Greenblatt","Vettori. Distanza e angolo nel piano. Operazioni e equazioni con vettori.  ",3,2,10,0
 "16/10/24","11:00-13:00",,"Lezione","Greenblatt","Piani e retti in termini di vettori.  Spazi con più dimensioni.",3,2,12,0
 "17/10/24","11:00-13:00",,"Esercitazione","Fidaleo",,3,2,12,2

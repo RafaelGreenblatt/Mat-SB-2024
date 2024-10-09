@@ -8,6 +8,7 @@
 for filename in esercizi/esercizi?.md; do
     perl -0777 -pe 's/:::\s*details.*?::://gs' <$filename> "esercizi/$(basename "$filename" .md)_nosoln.md"
     git add "esercizi/$(basename "$filename" .md)_nosoln.md"
+    git add $filename
 done
 
 for filename in esercizi/*.md; do
