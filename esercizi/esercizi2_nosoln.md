@@ -57,6 +57,7 @@ d. $h(x) = \tfrac1{(x-2)^3}$
 
 
 
+
 ## Esercizio
 Per le seguenti funzioni $f$, si trova $f^{-1}$:
 

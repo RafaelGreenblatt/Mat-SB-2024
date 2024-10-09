@@ -81,6 +81,7 @@ d. $\boxed{f(x) = 1/x^3, \ g(x) = x-2}$
 Queste non sono le uniche possibili risposte giuste; ad esempio per l'ultimo andrebbe bene anche $f(x) = 1/x$, $g(x) = (x-2)^3$.
 :::
 
+
 ## Esercizio
 Per le seguenti funzioni $f$, si trova $f^{-1}$:
 
