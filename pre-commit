@@ -9,12 +9,15 @@ for filename in esercizi/esercizi?.md; do
     perl -0777 -pe 's/:::\s*details.*?::://gs' <$filename> "esercizi/$(basename "$filename" .md)_nosoln.md"
 done
 
+# I tried to change this to make PDFs only for .md files which have been modified, but it doesn't really work
 cd esercizi
 for filename in *.md; do
-	cat ../notation.md | sed -e 's/\$\$\s*//g' > _topdf.md
-	cat "$filename" | sed -e 's/\\\$/\$/g' -e 's/:::\s*details.*/\Soluzione: \n\n/g' -e 's/:::.*//g'>> _topdf.md
-	pandoc _topdf.md -o "../public/PDFs/$(basename "$filename" .md).pdf"
-	rm _topdf.md
+	#if [ "$filename" -nt "../public/PDFs/$(basename "$filename" .md).pdf"   ]; then
+		cat ../notation.md | sed -e 's/\$\$\s*//g' > _topdf.md
+		cat "$filename" | sed -e 's/\\\$/\$/g' -e 's/:::\s*details.*/\Soluzione: \n\n/g' -e 's/:::.*//g'>> _topdf.md
+		pandoc _topdf.md -o "../public/PDFs/$(basename "$filename" .md).pdf"
+		rm _topdf.md
+	# fi
 done
 cd ..
 
