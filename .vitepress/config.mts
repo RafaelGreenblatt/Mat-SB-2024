@@ -4,7 +4,7 @@ import mdSuperscript from "markdown-it-sup";
 import MarkdownIt from "markdown-it";
 import mdContainer from "markdown-it-container";
 import amsmathPlugin from "markdown-it-amsmath";
-import {markdownItFancyListPlugin} from "markdown-it-fancy-lists";
+import { markdownItFancyListPlugin } from "markdown-it-fancy-lists";
 
 const figuresSetup = {
   figcaption: "title",
@@ -50,8 +50,7 @@ export default defineConfig({
     },
     math: true,
     config: (md) => {
-	    md.use(markdownItFancyListPlugin)
-	    ;
+	    md.use(markdownItFancyListPlugin);
 	    md.use(amsmathPlugin);
         md.use(mdImplicitFigures, {figuresSetup, figcaption : true});
       //  md.use(figuresSetup);
