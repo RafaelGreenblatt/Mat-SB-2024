@@ -20,7 +20,7 @@ Sia $y = m x + b$, con $x = 2,4 \pm 0,2$, $m = 1,1 \pm 0,1$, $b = 4,5 \pm 0,5$. 
 
 ## Esercizio
 
-Sia $x = \frac{a}{b}$, con $a = 7 \pm 11$, $b = 1,0 \pm 1,5$.  Scrivere $x$ con un valore stimato ed errore assoluto.
+Sia $x = \frac{a}{b}$, con $a = 7 \pm 1$, $b = 1{,}0 \pm 0{,}5$.  Scrivere $x$ con un valore stimato ed errore assoluto.
 
 
 
