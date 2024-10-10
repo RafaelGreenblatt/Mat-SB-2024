@@ -2,8 +2,9 @@ import { defineConfig } from 'vitepress'
 import mdImplicitFigures from "markdown-it-implicit-figures";
 import mdSuperscript from "markdown-it-sup";
 import MarkdownIt from "markdown-it";
-import mdContainer from "markdown-it-container";
+//import mdContainer from "markdown-it-container";
 import amsmathPlugin from "markdown-it-amsmath";
+// Presently this plugin isn't working, I have no idea why
 import { markdownItFancyListPlugin } from "markdown-it-fancy-lists";
 
 const figuresSetup = {
@@ -50,9 +51,11 @@ export default defineConfig({
     },
     math: true,
     config: (md) => {
-	    md.use(markdownItFancyListPlugin);
-	    md.use(amsmathPlugin);
-        md.use(mdImplicitFigures, {figuresSetup, figcaption : true});
+	    md.use(amsmathPlugin)
+	    .use(markdownItFancyListPlugin)
+	    //.use(mdImplicitFigures, {figuresSetup, figcaption : true})
+	    //.use(mdSuperscript)
+	    ;
       //  md.use(figuresSetup);
       //  .use(mdSuperscript)
       //  ;

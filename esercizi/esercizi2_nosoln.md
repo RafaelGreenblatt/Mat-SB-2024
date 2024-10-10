@@ -8,6 +8,8 @@ h2:after {
     counter-increment: h2;
     content: "2." counter(h2) 
 }
+
+ol {list-style-type: lower-alpha;}
 </style>
 
 # Esercizi - Settimana 2

@@ -12,7 +12,7 @@ il [canale Teams del corso][teams] sarà usato per annunci relativi al corso (a.
 
 [teams]:https://teams.microsoft.com/l/team/19%3AUlxchSW2wcljnjd74-Hav_esZItSK4rhH9iDs7ozuMQ1%40thread.tacv2/conversations?groupId=62ab3d9a-6aaa-450f-8b47-780524ddc097&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e
 
-Ricevimento (Greenblatt): lunedì 11-12:30 a partire del 14 ottobre, o per appuntamento.
+Ricevimento (Greenblatt): lunedì 11-12:30 a partire del 14 ottobre, o per appuntamento.  Il mio studio è numero 0224, in corridoio B0 (nella zona del dipartimento di Matematica, al piano basso).  Se la porta di vetro è chiuso, digitate 4769 sul telefono vecchio che si trova accanto la porta che funge di citofono.
 
 
 ## Orario e luogo del corso
