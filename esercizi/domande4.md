@@ -13,6 +13,9 @@ ol {list-style-type: lower-alpha;}
 
 # Domande di comprensione - Settimana 4
 
+Altre domande in corso di preparazione, tornate fra qualche giorno!
+
+
 ## Domanda
 
 Sia $A = \left|\matrix{1 & 2 \\ 2 & 1}\right|$.  Quale delle due seguenti matrici è l'inversa di $A$?
@@ -30,6 +33,8 @@ AC = \vmatrix{1 & 0 \\ 0 & 1}
 $$
 ::: 
 
+
+<!--
 ## Domanda
 
 If (sum), what does that tell you about liner (in)dependence?
@@ -37,4 +42,4 @@ If (sum), what does that tell you about liner (in)dependence?
 ## Domanda
 
 Is this an eigenvector, if so what is the eigenvalue?
-
+-->

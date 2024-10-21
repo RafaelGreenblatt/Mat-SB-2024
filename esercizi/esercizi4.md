@@ -50,3 +50,54 @@ a.
 b.
 c.
 :::
+
+
+## Esercizio
+
+Si risolvino le seguenti sistemi di equazioni lineari:
+
+a. $\left\{\array{
+x &+&y&+&z &=& 1
+\\
+3x &+&2y&+&z &=& -1
+\\
+x &+& y &-&z &=& 0
+}\right.$
+a. $\left\{\array{
+x &+&y&+&z &=& 1
+\\
+3x &+&2y&+&z &=& -1
+\\
+x &&&-&z &=& -3
+}\right.$
+a. $\left\{\array{
+x &+&y&+&z &=& 1
+\\
+3x &+&2y&+&z &=& -1
+\\
+x &&&-&z &=& 0
+}\right.$
+
+:::details
+a. unique solution
+b. many solutions
+c. no solution
+:::
+
+## Esercizio
+
+Si trovi l'inversa della matrice $A=\vmatrix{1 & 2 \\ 3 & 4}$
+
+::: tip
+
+Riscrive
+
+$$
+\vmatrix{a & b \\ c & d}
+\cdot 
+\vmatrix{1 & 2 \\ 3 & 4}
+=
+\vmatrix{1 & 0 \\ 0 & 1}
+$$
+come un sistema di equazioni lineari, e risoverlo.
+:::
