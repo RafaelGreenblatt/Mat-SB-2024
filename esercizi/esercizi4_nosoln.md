@@ -104,3 +104,14 @@ b. $\vmatrix{1 & -2 \\ -2 & 4}$
 c. $\vmatrix{-3 & 1 & 0 \\ 0 & 1 & 2 \\ 4 & 1 & -1}$
 
 
+
+## Esercizio
+
+Per ognuno di questi tripli di vettori, si scriva $\vec u$ come combinazione lineare di $\vec v$ e $\vec w$ (o dire che è impossibile).
+
+a. $\vec u = \vmatrix{2 \\ -2} , \ \vec v = \vmatrix{1 \\ 4}, \ \vec w = \vmatrix{3 \\ 2}$
+b. $\vec u = \vmatrix{0 \\ 2 \\ 1} , \ \vec v = \vmatrix{1 \\ 2 \\ 3}, \ \vec w = \vmatrix{1 \\ -1 \\ 1}$
+c. $\vec u = \vmatrix{-2 \\ 3 \\ 1} , \ \vec v = \vmatrix{2 \\ 1 \\ 3}, \ \vec w = \vmatrix{-2 \\ 1 \\ -1}$
+
+
+

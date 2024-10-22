@@ -118,3 +118,36 @@ c. $\det\vmatrix{-3 & 1 & 0 \\ 0 & 1 & 2 \\ 4 & 1 & -1}
 	= (-3) \cdot 1 \cdot (-1) + 1 \cdot 2 \cdot 4 + 0 - (-3) \cdot 2 \cdot 1 - 0 - 0
 	= 3 + 8 + 6 = \boxed{17}$
 :::
+
+## Esercizio
+
+Per ognuno di questi tripli di vettori, si scriva $\vec u$ come combinazione lineare di $\vec v$ e $\vec w$ (o dire che è impossibile).
+
+a. $\vec u = \vmatrix{2 \\ -2} , \ \vec v = \vmatrix{1 \\ 4}, \ \vec w = \vmatrix{3 \\ 2}$
+b. $\vec u = \vmatrix{0 \\ 2 \\ 1} , \ \vec v = \vmatrix{1 \\ 2 \\ 3}, \ \vec w = \vmatrix{1 \\ -1 \\ 1}$
+c. $\vec u = \vmatrix{-2 \\ 3 \\ 1} , \ \vec v = \vmatrix{2 \\ 1 \\ 3}, \ \vec w = \vmatrix{-2 \\ 1 \\ -1}$
+
+
+::: details
+a. In altre parole, vogliamo trovare $\mu,\lambda$ tali che $\vec u = \mu \vec v + \lambda \vec w$.  Questo è la stessa cosa di risolvere il sistema
+$$
+\left\{\array{
+\mu &+& 3 \lambda &=& 2
+\\
+4 \mu &+& 2 \lambda &=& - 2.
+}\right.
+$$
+Risolvendo la prima equazione per $\mu$ e sostituendo il risultato nel secondo, questo diventa
+$$
+\left\{\array{
+\mu &=& 2 - 3 \lambda
+\\
+8 - 10 \lambda &=& -2
+}\right.
+$$
+e poi risolvendo la seconda per $\lambda$ e sostituendo dà $\mu = -1, \lambda = 1$.
+Quindi,
+$$
+\boxed{\vec u = - \vec v + \vec w}.
+$$
+:::
