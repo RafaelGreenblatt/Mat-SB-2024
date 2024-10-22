@@ -93,3 +93,14 @@ $$
 $$
 come un sistema di equazioni lineari, e risoverlo.
 :::
+
+
+## Esercizio
+
+Si calcolino i determinanti delle matrici seguenti:
+
+a. $\vmatrix{1 & 3 \\ 5 & -2}$
+b. $\vmatrix{1 & -2 \\ -2 & 4}$
+c. $\vmatrix{-3 & 1 & 0 \\ 0 & 1 & 2 \\ 4 & 1 & -1}$
+
+

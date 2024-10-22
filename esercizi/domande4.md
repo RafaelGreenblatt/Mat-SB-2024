@@ -13,7 +13,6 @@ ol {list-style-type: lower-alpha;}
 
 # Domande di comprensione - Settimana 4
 
-Altre domande in corso di preparazione, tornate fra qualche giorno!
 
 
 ## Domanda
@@ -33,6 +32,32 @@ AC = \vmatrix{1 & 0 \\ 0 & 1}
 $$
 ::: 
 
+## Domanda
+
+Siano 
+$$
+A = \vmatrix{
+-4 & 3 & 5
+\\
+6 & -2 & 1
+}
+, \quad
+B = \vmatrix{
+5 & 6 
+\\
+3 & -1
+}
+;
+$$
+quali delle seguenti operazioni sono ben definite (cioè, sensate)?
+
+$$
+AB, \ BA, \ B + A
+$$
+
+::: details
+Solo $\boxed{BA}$.
+:::
 
 <!--
 ## Domanda

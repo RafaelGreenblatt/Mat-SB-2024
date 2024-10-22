@@ -101,3 +101,20 @@ $$
 $$
 come un sistema di equazioni lineari, e risoverlo.
 :::
+
+
+## Esercizio
+
+Si calcolino i determinanti delle matrici seguenti:
+
+a. $\vmatrix{1 & 3 \\ 5 & -2}$
+b. $\vmatrix{1 & -2 \\ -2 & 4}$
+c. $\vmatrix{-3 & 1 & 0 \\ 0 & 1 & 2 \\ 4 & 1 & -1}$
+
+::: details
+a. $\det \vmatrix{1 & 3 \\ 5 & -2} = 1 \cdot(-2) - 3 \cdot 5 = -2 - 15 = \boxed{-17}$
+b. $\det\vmatrix{1 & -2 \\ -2 & 4} = 4 - (-2)(-2) = 4 -4 = \boxed{0}$
+c. $\det\vmatrix{-3 & 1 & 0 \\ 0 & 1 & 2 \\ 4 & 1 & -1}
+	= (-3) \cdot 1 \cdot (-1) + 1 \cdot 2 \cdot 4 + 0 - (-3) \cdot 2 \cdot 1 - 0 - 0
+	= 3 + 8 + 6 = \boxed{17}$
+:::
