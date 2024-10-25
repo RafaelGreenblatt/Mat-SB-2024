@@ -7,9 +7,9 @@
 "16/10/24","11:00-13:00",,"Lezione","Greenblatt","Piani e retti in termini di vettori.  Spazi con più dimensioni.",3,2,12,0
 "17/10/24","11:00-13:00",,"Esercitazione","Fidaleo",,3,2,12,2
 "21/10/24","14:00-17:00",,"Lezione","Greenblatt","Matrici e trasformazioni lineari.  Operazioni ed equazioni con matrici (e vettori).",4,3,15,2
-"23/10/24","11:00-13:00",,"Lezione","Greenblatt","Sistemi di equazioni lineare.  Nozione di (in)dipendenza lineare. Rango di una matrice.",4,2,17,2
+"23/10/24","11:00-13:00",,"Lezione","Greenblatt","Sistemi di equazioni lineare.  Nozione di (in)dipendenza lineare. Determinante di matrici 2x2 e 3x3 (regola di Sarrus)",4,2,17,2
 "24/10/24","11:00-13:00",,"Esercitazione","Fidaleo",,4,2,17,4
-"28/10/24","14:00-17:00",,"Lezione","Greenblatt","Determinanti, autovalori e autovettori. Tecniche di calcolo con matrici.  Rango di una matrice e la categorizzazione di sistemi di equazioni lineari.",5,3,20,4
+"28/10/24","14:00-17:00",,"Lezione","Greenblatt","Rango di una matrice e la categorizzazione di sistemi di equazioni lineari. Autovettori e autovalori",5,3,20,4
 "30/10/24","11:00-13:00",,"Lezione","Greenblatt","Funzioni algebriche.  Limite e continuità.",5,2,22,4
 "31/10/24","11:00-13:00",,"Esercitazione","Fidaleo",,5,2,22,6
 04/11/24,"14:00-17:00",,"Lezione","Greenblatt","Funzioni esponenziali, logistiche, e logaritmiche. ",6,3,25,6
