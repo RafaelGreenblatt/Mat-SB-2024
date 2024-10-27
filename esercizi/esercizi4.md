@@ -46,9 +46,53 @@ $A^{-1} = \frac{1}{33}
 c. Usare questo per trovare una soluzione del sistema ottenuto in parte a.
 
 ::: details
-a.
-b.
-c.
+a. $\boxed{ \left\{\array{
+3 x &+&y&+&2 z &=& 3
+\\
+3x &+& &-&2z &=& 1
+\\
+ & & 3y &+&z &=& 0
+}\right. }$
+b. $\frac{1}{33} 
+\vmatrix{
+6 & 5 & -2 
+\\
+-3 & 3 & 12
+\\
+9 & -9 & -3
+} 
+\cdot  
+\vmatrix{
+3 & 1 & 2
+\\
+3 & 0 & -2
+\\
+0 & 3 & 1
+} = \frac{1}{33} \vmatrix{33 & 0 & 0 \\ 0 & 33 & 0 \\ 0 & 0 & 33}
+= I_3$
+c. Una soluzione (infatti l'unica soluzione) è data per
+$$
+\vec v = A^{-1} \vec b
+=
+\vmatrix{
+6 & 5 & -2 
+\\
+-3 & 3 & 12
+\\
+9 & -9 & -3
+} 
+\cdot  
+\vmatrix{
+3 \\ 1 \\ 0
+}
+=
+\frac{1}{33}
+\vmatrix{ 18+5+0 \\ -9 + 3 +0  \\ 27 - 9 + 0}
+=
+\frac{1}{33}
+\vmatrix{ 23 \\ -6  \\ 18},
+$$
+cioè $\boxed{x = \frac{23}{33} , \ y =  -\frac{2}{11}, \ z= \frac{6}{11}}$
 :::
 
 
