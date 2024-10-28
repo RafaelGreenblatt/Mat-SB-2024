@@ -59,12 +59,14 @@ $$
 Solo $\boxed{BA}$.
 :::
 
-<!--
 ## Domanda
 
-If (sum), what does that tell you about liner (in)dependence?
+Quale di queste due ragionamenti è corretto?
 
-## Domanda
+a. Se $\vec u, \vec v, \vec w$ sono linearmente dipendenti, allora $\vec u$ è una combinazione lineare di $\vec v, \vec w$
+b. Se $\vec u$ è una combinazione lineare di $\vec v, \vec w$, allora $\vec u, \vec v, \vec w$ sono linearmente dipendenti
 
-Is this an eigenvector, if so what is the eigenvalue?
--->
+::: details
+$\boxed b$; per confermare che a. non è corretto, consideri $\vec u = \vmatrix{ 1 \\ 0}$, $\vec v = \vmatrix{0 \\ 1} = \vec w$.
+:::
+

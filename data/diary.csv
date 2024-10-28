@@ -9,11 +9,11 @@
 "21/10/24","14:00-17:00",,"Lezione","Greenblatt","Matrici e trasformazioni lineari.  Operazioni ed equazioni con matrici (e vettori).",4,3,15,2
 "23/10/24","11:00-13:00",,"Lezione","Greenblatt","Sistemi di equazioni lineare.  Nozione di (in)dipendenza lineare. Determinante di matrici 2x2 e 3x3 (regola di Sarrus)",4,2,17,2
 "24/10/24","11:00-13:00",,"Esercitazione","Fidaleo",,4,2,17,4
-"28/10/24","14:00-17:00",,"Lezione","Greenblatt","Rango di una matrice e la categorizzazione di sistemi di equazioni lineari. Autovettori e autovalori",5,3,20,4
-"30/10/24","11:00-13:00",,"Lezione","Greenblatt","Funzioni algebriche.  Limite e continuità.",5,2,22,4
+"28/10/24","14:00-17:00",,"ANNULLATO",,,5,3,20,4
+"30/10/24","11:00-13:00",,"Lezione","Greenblatt","Rango di una matrice e la categorizzazione di sistemi di equazioni lineari. Autovettori e autovalori",5,2,22,4
 "31/10/24","11:00-13:00",,"Esercitazione","Fidaleo",,5,2,22,6
-04/11/24,"14:00-17:00",,"Lezione","Greenblatt","Funzioni esponenziali, logistiche, e logaritmiche. ",6,3,25,6
-06/11/24,"11:00-13:00",,"Lezione","Greenblatt","Funzioni trigonometriche e periodiche.",6,2,27,6
+04/11/24,"14:00-17:00",,"Lezione","Greenblatt","Funzioni algebriche.  Limite e continuità.",6,3,25,6
+06/11/24,"11:00-13:00",,"Lezione","Greenblatt","Funzioni esponenziali, logistiche, e logaritmiche.  Funzioni trigonometriche e periodiche.",6,2,27,6
 07/11/24,"11:00-13:00",,"Esercitazione","Fidaleo",,6,2,27,8
 11/11/24,"14:00-17:00",,"Lezione","Greenblatt","Derivate – definizioni, regole di calcolo, derivate di funzioni comuni.  ",7,3,30,8
 "13/11/24","11:00-13:00",,"Lezione","Greenblatt","Derivate di funzioni trascendentali e composte.  La regola de l’Hôpital.  Funzioni non-derivibili.",7,2,32,8
@@ -30,3 +30,4 @@
 09/12/24,"14:00-17:00",,"Lezione","Greenblatt","Equazioni differenziali e problemi di Cauchy.  Equazioni notevoli e le loro soluzioni.",11,3,50,16
 11/12/24,"11:00-13:00",,"Lezione","Greenblatt","Soluzioni generali e particolari. Manipolazione di soluzioni di equazioni differenziali.",11,2,52,16
 12/12/24,"11:00-13:00",,"Esercitazione","Greenblatt",,11,2,54,16
+"16/12/24","14:00-17:00",,"Lezione","Greenblatt","Ripasso",,,,
