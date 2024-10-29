@@ -22,21 +22,61 @@ Studiare in funzione del parametro $t$ l'esistenza di soluzioni dei seguenti sis
 a. $\left \{ \begin{matrix}
  x&+&2y  &=& 2 \\
  2x&+ &(t-1)^2 y&  =& t +1
- \end{matrix} \right .$
+ \end{matrix} \right.$
 b. $\left \{ \begin{matrix}
- 6 x &+& 3 y &=& t + 6
+ (t-2)^2 x &-& 2 y &=& 4
  \\
- (t-1)^2 x &+& 2 y &=& 6
- \end{matrix} \right .$
+ 2 x &-&  y &=& t-2
+ \end{matrix} \right.$
 
 ::: details
 
-a. Soluzione unica per $t \in \bR \setminus \{-1,3\}$, nessuna soluzione per $t=-1$, infinite soluzioni per $t=3$.
-	\\
-	Per $t=3$, soluzioni $(x,y) = (2-2s,s)$ per ogni $s \in \bR$.
-b. Soluzione unica per $t \in \bR \setminus \{-1,3\}$, nessuna soluzione per $t=-1$, infinite soluzioni per $t=3$.
-	\\
-	Per $t=3$, soluzioni $(x,y) = (s,3 - 2s)$ per ogni $s \in \bR$.
+a. La matrice di coefficienti è $A = \vmatrix{ 1 & 2 \\ 2 & (t-1)^2}$, per cui
+$$
+\det A = (t-1)^2 - 4 = t^2 - 2t -3,
+$$
+che fa zero per 
+$$
+t = \frac{2 \pm \sqrt{4+12}}{2}= \frac{2 \pm 4}2= 3,-1;
+$$
+per i altri valori ha rango 2, il massimo possibile (o in altre parole $A$ è invertibile), e quindi c'è un'$\boxed{\textup{unica soluzione per } t \neq 3,-1}$.  
+<br> 
+I altri casi sono più delicati.
+Per $t = -1$ il sistema diventa
+$$
+\left \{ \begin{matrix}
+ x&+&2y  &=& 2 \\
+ 2x&+ &4 y&  =& 0,
+ \end{matrix} \right.
+$$
+che non ha soluzioni, che si vede perchè (per esempio) $\vmatrix{2 \\ 0}$ non è una combinazione lineare delle colonne $\vmatrix{1 \\ 2}, \ \vmatrix{2 \\ 4}$; $\boxed{\textup{per }t = -1 \textup{ nessuna soluzione}}$.
+<br>
+Invece per $t=3$
+$$
+\left \{ \begin{matrix}
+ x&+&2y  &=& 2 \\
+ 2x&+ &4 y&  =& 4
+ \end{matrix} \right.
+\Leftrightarrow 
+x + 2y =2
+$$
+e quindi $\boxed{\textup{per }t = 3 \textup{ infinite soluzioni}}$ date per
+$$
+\vmatrix{x \\ y} = \vmatrix{2 - 2 s \\ s}
+, \ \forall s \in \bR
+$$
+b. Procedendo in modo simile,
+$$
+\boxed{\begin{aligned}
+\textup{unica soluzione per } t \neq 0, 4
+\\
+\textup{nessuna soluzione per } t = 4
+\\
+\textup{per } t = 4, \textup{ infinite soluzioni},
+\end{aligned}}
+$$
+e per $t=4$ le soluzioni sono
+ $$\boxed{\vmatrix{x \\ y} = \vmatrix{s \\ 2 s -2} , \ \forall s \in \bR}.$$
 :::
 
 ## Esercizio
@@ -48,14 +88,59 @@ b. $A = \vmatrix{-1 & 2 \\ -4 & 5}$
 c. $A = \vmatrix{0 & 2 & 2 \\ -1 & 1 & 0 \\ 1 & 1 & 2}$
 
 :::details
-a. Il polinomo caratteristico di $A$ è 
+a. Il polinomio caratteristico di $A$ è 
 $$
 \det (A - \lambda I_2)
 =
 \det \vmatrix{2 - \lambda & 3 \\ 4 & -2- \lambda}
-b. $3, \vmatrix{1 \\ 2}$; $1, \vmatrix{1 \\ 1}$
+=
+(2 - \lambda)(-2 - \lambda) - 12
+=
+\lambda^2 - 16
+,
 $$
-c. $\lambda = 2,1,0$
-
-Nonuniqueness
+che fa zero per $\lambda = \pm 4$.
+<br>
+Per $\lambda = 4$ dobbiamo trovare $\vec v$ tale che $A \vec v = 4 \vec v$, cioè risolvere il sistema
+$$
+\left \{ \begin{matrix}
+ 2x&+&3y  &=& 4x \\
+ 4x&- &2 y&  =& 4y
+ \end{matrix} \right.
+\Leftrightarrow 3 y = 2 x
+$$
+e fra le soluzioni c'è $x = 3, \ y =2$.
+<br>
+Procedendo in modo simile nel caso $\lambda = -4$ e riassumendo,
+$$
+\boxed{\begin{aligned}
+\textup{autovalore } 4 \textup{ con autovettore } \vmatrix{3 \\ 2}, 
+\\
+\textup{autovalore } -4 \textup{ con autovettore } \vmatrix{1 \\ -2}.
+\end{aligned}}
+$$ 
+Si noti che non è l'unica risposta possibile, per esempio anche \vmatrix{-1 \\ 2} è un autovettore di $A$ con autovettore $-4$. <br>
+b. Procedendo in modo simile,
+$$ 
+\boxed{\begin{aligned}
+\textup{autovalore } 3 \textup{ con autovettore } \vmatrix{1 \\ 2}, 
+\\
+\textup{autovalore } 1 \textup{ con autovettore } \vmatrix{1 \\ 1}.
+\end{aligned}}
+$$
+c. Il polinomio caratteristico di $A$ è
+$$\det (A - \lambda I_3)
+=
+-\lambda^3 + 3 \lambda^2 - 2 \lambda
+$$
+che fa zero per $\lambda = 2,1,0$; poi procedendo come prima,
+$$ 
+\boxed{\begin{aligned}
+\textup{autovalore } 2 \textup{ con autovettore } \vmatrix{1 \\ -1 \\ 2}, 
+\\
+\textup{autovalore } 1 \textup{ con autovettore } \vmatrix{0 \\ -1 \\ 1},
+\\
+\textup{autovalore } 0 \textup{ con autovettore } \vmatrix{-1 \\ -1 \\ 1}.
+\end{aligned}}
+$$
 :::

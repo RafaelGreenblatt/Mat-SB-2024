@@ -22,12 +22,12 @@ Studiare in funzione del parametro $t$ l'esistenza di soluzioni dei seguenti sis
 a. $\left \{ \begin{matrix}
  x&+&2y  &=& 2 \\
  2x&+ &(t-1)^2 y&  =& t +1
- \end{matrix} \right .$
+ \end{matrix} \right.$
 b. $\left \{ \begin{matrix}
- 6 x &+& 3 y &=& t + 6
+ (t-2)^2 x &-& 2 y &=& 4
  \\
- (t-1)^2 x &+& 2 y &=& 6
- \end{matrix} \right .$
+ 2 x &-&  y &=& t-2
+ \end{matrix} \right.$
 
 
 
