@@ -28,32 +28,6 @@ d. Il rango di $A$ è 5
 $\boxed{a}$; l'unico fatto rilevante è che il rango di una matrice non può superare nè il suo numero di righe nè il suo numero di colonne.
 :::
 
-## Domanda
-
-Quale fra $\vec u = \vmatrix{1 \\ 1}$, $\vec v = \vmatrix{1 \\ -1}$ è un autovettore di $A= \vmatrix{2 & -1 \\ 1 & 4}$?
-
-::: details
-$$ 
-A \vec u 
-=
-\vmatrix{2 - 1 \\ 1 + 4}
-=
-\vmatrix{1 \\ 5},
-$$
-che non è colineare con $\vec u$, mentre
-$$
-A \vec v 
-=
-\vmatrix{2 + 1 \\ 1 -4}
-=
-\vmatrix{3 \\ -3}
-=
-- 3 \vec v
-,
-$$
-quindi $\boxed{\vec v}$.
-
-:::
 
 
 <!--

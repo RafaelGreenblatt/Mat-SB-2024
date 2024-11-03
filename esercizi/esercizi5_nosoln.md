@@ -31,12 +31,3 @@ b. $\left \{ \begin{matrix}
 
 
 
-## Esercizio
-
-Per la date matrici $A$, trovare gli autovalori di $A$, e per ogni autovalore trovare un autovettore:
-
-a. $A = \vmatrix{2 & 3 \\ 4 & -2}$
-b. $A = \vmatrix{-1 & 2 \\ -4 & 5}$
-c. $A = \vmatrix{0 & 2 & 2 \\ -1 & 1 & 0 \\ 1 & 1 & 2}$
-
-
