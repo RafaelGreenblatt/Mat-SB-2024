@@ -55,7 +55,7 @@ $$
 \textup{autovalore } -4 \textup{ con autovettore } \vmatrix{1 \\ -2}.
 \end{aligned}}
 $$ 
-Si noti che non è l'unica risposta possibile, per esempio anche \vmatrix{-1 \\ 2} è un autovettore di $A$ con autovettore $-4$. <br>
+Si noti che non è l'unica risposta possibile, per esempio anche $\vmatrix{-1 \\ 2}$ è un autovettore di $A$ con autovettore $-4$. <br>
 b. Procedendo in modo simile,
 $$ 
 \boxed{\begin{aligned}
