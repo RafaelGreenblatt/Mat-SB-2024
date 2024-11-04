@@ -43,7 +43,7 @@ $$
  2x&+&3y  &=& 4x \\
  4x&- &2 y&  =& 4y
  \end{matrix} \right.
-\Leftrightarrow 3 y = 2 x
+\quad \Leftrightarrow \quad 3 y = 2 x
 $$
 e fra le soluzioni c'è $x = 3, \ y =2$.
 <br>
@@ -111,7 +111,7 @@ $$
 \left[ \frac{x^4-2x+1}{x^2-2x+1} - x^2 \right]
 =
 \lim_{x \to \infty} 
-\left[ \x^2 - x^2 \right]
+\left[ x^2 - x^2 \right]
 =
 \boxed{0}$$
 c.
