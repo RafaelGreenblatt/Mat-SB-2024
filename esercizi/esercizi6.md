@@ -84,7 +84,7 @@ $$
 
 ## Esercizio
 
-Si calcolcio i seguenti limiti:
+Si calcolino i seguenti limiti:
 
 a. $\lim_{x \to \infty} \frac{3-x^2}{x+2}$
 b. $\lim_{x \to \infty} \left[ \frac{x^4-2x+1}{(x-1)^2} - x^2 \right]$
