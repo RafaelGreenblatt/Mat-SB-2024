@@ -35,3 +35,20 @@ b. $\lim_{x \to \infty} \left[ \frac{x^4-2x+1}{(x-1)^2} - x^2 \right]$
 c. $\lim_{x \to \infty} \left[ \frac{(x+7)^2}{2x} - x \right]$
 
 
+
+
+## Esercizio
+
+Si trovi $t > 0$ tale che la funzione
+$$
+f(x) = \begin{cases}
+(x+t)^2 
+, & x \le 2
+\\
+4 x^2 e^{x-2}
+, & x > 2
+\end{cases}
+$$
+è continua.
+
+

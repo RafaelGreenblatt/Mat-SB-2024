@@ -127,3 +127,35 @@ $$
 =
 \boxed{-\infty}$$
 :::
+
+
+## Esercizio
+
+Si trovi $t > 0$ tale che la funzione
+$$
+f(x) = \begin{cases}
+(x+t)^2 
+, & x \le 2
+\\
+4 x^2 e^{x-2}
+, & x > 2
+\end{cases}
+$$
+è continua.
+
+::: details
+$f$ è comunque continua dappertutto tranne $x=2$, dove ci vorrebbe
+$$
+(2+t)^2 = 4 \cdot 2^2 e^{0}
+\Leftrightarrow
+t^2 + 4 t + 4 = 16
+\Leftrightarrow
+t^2 + 4 t - 12 =0
+,
+$$
+che si può risolvere con la formula quadratica,
+$$
+t = \frac{-4 \pm \sqrt{16 +48 }}{2} = -2 \pm 4,
+$$
+e scegliendo la radice positive abbiamo $\boxed{t = 2}$.
+:::
