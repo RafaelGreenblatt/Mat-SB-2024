@@ -2,3 +2,4 @@
 .vitepress/cache
 node_modules
 data/.~lock*
+*.swo
