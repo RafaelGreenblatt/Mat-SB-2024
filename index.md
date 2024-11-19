@@ -60,11 +60,14 @@ Ambedue conengono materiale che non sarà incluso in questo corso ma che vi potr
 Il voto del corso è assegnato in base di un esame scritto. *Si nota che l'esame sarà riorganizzato rispetto aglii anni precedenti*, e quindi esami vecchi possono dare un'impressione fuorviante di quello che vi aspetta.  Un esame modello sarà caricato qua prima del periodo degli esami.  L'esame (testo, politiche, date ed orari) è uguale per tutte e due i canali del corso.
 
 Ci saranno sei appelli di esame:
-- tre nel periodo 15 gennaio - 1 marzo,
-- due nel periodo 3 giugno - 30 luglio,
-- uno nel periodo 1 -27 settembre,
+- 15 gennaio 2025, ore 14.00
+- 30 gennaio 2025, ore 14.00
+- 20 febbraio 2025, ore 14.00
+- 9 giugno 2025, ore 10.00
+- 14 luglio 2025, ore 10.00
+- 25 settembre 2025, ore 10.00
 
-tutti in data ancora da definire.
+Come per i altri corsi del primo anno, non sono previsti appelli straordinari per studenti fuori corso.
 
 
 Per politica del corso di laurea, gli studenti con obbligazioni di formazione aggiuntiva in matematica (vedi pagina 2 [Guida Didattica][GD]) devono assolvere tale obbligo prima di sostenere l'esame, ma sono vivamente invitati a partecipare nelle lezioni ed esercitazioni.
