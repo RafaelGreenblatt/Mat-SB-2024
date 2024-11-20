@@ -70,7 +70,7 @@ export default defineConfig({
     
     sidebar: [
         { text: "Home", link: "/"},
-        { text: "Diario delle lezioni", link: "diary"},
+        { text: "Programma/Diario delle lezioni", link: "diary"},
         { text: "Domande ed esercizi", link: "esercizi"}
     ],
 
