@@ -16,7 +16,3 @@ ol {list-style-type: lower-alpha;}
 
 
 ## Esercizio
-
-Si trovino le eventuali estremi (massimi/minimi) delle funzioni seguenti, dicendo se sono estremi golbali o locali.
-
-a. $f(x) = \frac{x^3+2x-2}{x}$
