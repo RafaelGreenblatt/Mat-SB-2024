@@ -1,33 +1,33 @@
-date,time,room,type,docente,topic,week,hours,hours_RLG,hours_FF
-02/10/24,11:00-13:00,,Lezione,Greenblatt,"Introduzione al corso. Perché ancora un corso di matematica?  Numeri, rappresentazione dei numeri, intervalli. Ripasso di aritmetica.  Nozione di insieme.",1,2,2,0
-03/10/24,11:00-13:00,,Lezione/esercitazione,Greenblatt," Logica elementare (implicazione, ∃, ∀).  Relazioni fra insiemi, manipolazione di intervalli.   Valore assoluto.  Manipolazione (e risoluzione) di disuguaglianze. ",1,2,2,0
-09/10/24,11:00-13:00,,Lezione,Greenblatt,"Funzioni; dominio, codominio, immagine.  Composizione di funzioni.  Piano Cartesiano.  Grafici di funzioni, di equazioni, e di diesquazioni.",2,2,2,0
-10/10/24,11:00-13:00,,Lezione/esercitazione,Greenblatt,Funzioni invertibili e le loro inversi,2,2,2,0
-14/10/24,14:00-16:00,,Lezione,Greenblatt,Vettori. Distanza e angolo nel piano. Operazioni e equazioni con vettori.  ,3,2,2,0
-16/10/24,11:00-13:00,,Lezione,Greenblatt,Piani e retti in termini di vettori.  Spazi con più dimensioni.,3,2,2,0
-17/10/24,11:00-13:00,,Esercitazione,Fidaleo,,3,2,0,2
-21/10/24,14:00-17:00,,Lezione,Greenblatt,Matrici e trasformazioni lineari.  Operazioni ed equazioni con matrici (e vettori).,4,3,3,0
-23/10/24,11:00-13:00,,Lezione,Greenblatt,Sistemi di equazioni lineare.  Nozione di (in)dipendenza lineare. Determinante di matrici 2x2 e 3x3 (regola di Sarrus),4,2,2,0
-24/10/24,11:00-13:00,,Esercitazione,Fidaleo,,4,2,0,2
-28/10/24,14:00-17:00,,ANNULLATO,,,5,3,0,0
-30/10/24,11:00-13:00,,Lezione,Greenblatt,Rango di una matrice e la categorizzazione di sistemi di equazioni lineari. Autovettori e autovalori,5,2,2,0
-31/10/24,11:00-13:00,,Esercitazione,Fidaleo,,5,2,0,2
-04/11/24,14:00-17:00,,Lezione,Greenblatt,Autovalori e autovettori.  Funzioni algebriche.  Limiti all’infinito.  Manipolazione di limiti.  Forme indeterminate.,6,3,3,0
-06/11/24,11:00-13:00,,Lezione,Greenblatt,Limiti a valori finiti.  Limiti direzionali.  Continuità.  Funzioni continue e discontinue.  Teorema dei valori intermedi.,6,2,2,0
-07/11/24,11:00-13:00,,Esercitazione,Fidaleo,,6,2,0,2
-11/11/24,14:00-17:00,,Lezione,Greenblatt,"Funzioni trascendenti: esponziale, logaritmo, funzioni trigonometriche.  Forme indeterminate con esponenziale e logaritmo.  Funzione periodiche.",7,3,3,0
-13/11/24,11:00-13:00,,Lezione,Greenblatt,"Derivate – definizioni, regole di calcolo, derivate di funzioni comuni.  ",7,2,2,0
-14/11/24,11:00-13:00,,Esercitazione,Fidaleo,,7,2,0,2
-18/11/24,14:00-17:00,,Lezione,Greenblatt,Paragone fra limite (notazione “o piccolo”) e approssimazioni lineari e quadratiche. Derivate di ordine superiore.  Estremi locali e globali.  Relazione fra derivate e estremi.,8,3,3,0
-20/11/24,11:00-13:00,,Lezione,Greenblatt,"Derivate di funzioni composte e funzioni inverse.  Derivate di esponenziale, logaritmo naturale, funzioni dirgonometriche.  Funzione trigonometriche inverse e le loro derivate.  La regola de l’Hôpital per il calcolo di limiti.",8,2,2,0
-21/11/24,11:00-13:00,,Esercitazione,Fidaleo,,8,2,0,2
-25/11/24,14:00-17:00,,Lezione,Greenblatt,"Integrale definito, la sua relazione con la derivata (le teoremi fondamentali del calcolo), e proprietà",9,3,3,0
-27/11/24,11:00-13:00,,Lezione,Greenblatt,"Integrale indefinito e primitive di una funzione.  Relazione fra integrali definiti ed indefiniti.  Tecniche di base del calcolo delle integrali, integrali di funzioni comuni.",9,2,2,0
-28/11/24,11:00-13:00,,Esercitazione,Fidaleo,,9,2,0,2
-02/12/24,14:00-17:00,,Lezione,Greenblatt,"Integrali per parti e per sostituzione,",10,3,3,0
-04/12/24,11:00-13:00,,Lezione,Greenblatt,"Integrali impropri, integrali di funzioni definite a tratti",10,2,2,0
-05/12/24,11:00-13:00,,Esercitazione,Fidaleo,,10,2,0,2
-09/12/24,14:00-17:00,,Lezione,Greenblatt,Equazioni differenziali e problemi di Cauchy.  Equazioni notevoli e le loro soluzioni.,11,3,3,0
-11/12/24,11:00-13:00,,Lezione,Greenblatt,Soluzioni generali e particolari. Manipolazione di soluzioni di equazioni differenziali.,11,2,2,0
-12/12/24,11:00-13:00,,Esercitazione,Greenblatt,,11,2,2,0
-16/12/24,14:00-17:00,,Lezione,Greenblatt,Ripasso,12,3,3,0
+"date","time","room","type","docente","topic","week","hours","hours_RLG","hours_FF"
+02/10/24,"11:00-13:00",,"Lezione","Greenblatt","Introduzione al corso. Perché ancora un corso di matematica?  Numeri, rappresentazione dei numeri, intervalli. Ripasso di aritmetica.  Nozione di insieme.",1,2,2,0
+03/10/24,"11:00-13:00",,"Lezione/esercitazione","Greenblatt"," Logica elementare (implicazione, ∃, ∀).  Relazioni fra insiemi, manipolazione di intervalli.   Valore assoluto.  Manipolazione (e risoluzione) di disuguaglianze. ",1,2,2,0
+09/10/24,"11:00-13:00",,"Lezione","Greenblatt","Funzioni; dominio, codominio, immagine.  Composizione di funzioni.  Piano Cartesiano.  Grafici di funzioni, di equazioni, e di diesquazioni.",2,2,2,0
+10/10/24,"11:00-13:00",,"Lezione/esercitazione","Greenblatt","Funzioni invertibili e le loro inversi",2,2,2,0
+"14/10/24","14:00-16:00",,"Lezione","Greenblatt","Vettori. Distanza e angolo nel piano. Operazioni e equazioni con vettori.  ",3,2,2,0
+"16/10/24","11:00-13:00",,"Lezione","Greenblatt","Piani e retti in termini di vettori.  Spazi con più dimensioni.",3,2,2,0
+"17/10/24","11:00-13:00",,"Esercitazione","Fidaleo",,3,2,0,2
+"21/10/24","14:00-17:00",,"Lezione","Greenblatt","Matrici e trasformazioni lineari.  Operazioni ed equazioni con matrici (e vettori).",4,3,3,0
+"23/10/24","11:00-13:00",,"Lezione","Greenblatt","Sistemi di equazioni lineare.  Nozione di (in)dipendenza lineare. Determinante di matrici 2x2 e 3x3 (regola di Sarrus)",4,2,2,0
+"24/10/24","11:00-13:00",,"Esercitazione","Fidaleo",,4,2,0,2
+"28/10/24","14:00-17:00",,"ANNULLATO",,,5,3,0,0
+"30/10/24","11:00-13:00",,"Lezione","Greenblatt","Rango di una matrice e la categorizzazione di sistemi di equazioni lineari.",5,2,2,0
+"31/10/24","11:00-13:00",,"Esercitazione","Fidaleo",,5,2,0,2
+04/11/24,"14:00-17:00",,"Lezione","Greenblatt","Autovalori e autovettori.  Funzioni algebriche.  Limiti all’infinito.  Manipolazione di limiti.  Forme indeterminate.",6,3,3,0
+06/11/24,"11:00-13:00",,"Lezione","Greenblatt","Limiti a valori finiti.  Limiti direzionali.  Continuità.  Funzioni continue e discontinue.  Teorema dei valori intermedi.",6,2,2,0
+07/11/24,"11:00-13:00",,"Esercitazione","Fidaleo",,6,2,0,2
+11/11/24,"14:00-17:00",,"Lezione","Greenblatt","Funzioni trascendenti: esponziale, logaritmo, funzioni trigonometriche.  Forme indeterminate con esponenziale e logaritmo.  Funzione periodiche.",7,3,3,0
+"13/11/24","11:00-13:00",,"Lezione","Greenblatt","Derivate – definizioni, regole di calcolo, derivate di funzioni comuni.  ",7,2,2,0
+"14/11/24","11:00-13:00",,"Esercitazione","Fidaleo",,7,2,0,2
+"18/11/24","14:00-17:00",,"Lezione","Greenblatt","Paragone fra limite (notazione “o piccolo”) e approssimazioni lineari e quadratiche. Derivate di ordine superiore.  Estremi locali e globali.  Relazione fra derivate e estremi.",8,3,3,0
+"20/11/24","11:00-13:00",,"Lezione","Greenblatt","Derivate di funzioni composte e funzioni inverse.  Derivate di esponenziale, logaritmo naturale, funzioni dirgonometriche.  Funzione trigonometriche inverse e le loro derivate.  La regola de l’Hôpital per il calcolo di limiti.",8,2,2,0
+"21/11/24","11:00-13:00",,"Esercitazione","Fidaleo",,8,2,0,2
+"25/11/24","14:00-17:00",,"Lezione","Greenblatt","Integrale definito, la sua relazione con la derivata (le teoremi fondamentali del calcolo), e proprietà",9,3,3,0
+"27/11/24","11:00-13:00",,"Lezione","Greenblatt","Integrale indefinito e primitive di una funzione.  Relazione fra integrali definiti ed indefiniti.  Tecniche di base del calcolo delle integrali, integrali di funzioni comuni.",9,2,2,0
+"28/11/24","11:00-13:00",,"Esercitazione","Fidaleo",,9,2,0,2
+02/12/24,"14:00-17:00",,"Lezione","Greenblatt","Integrali per parti e per sostituzione,",10,3,3,0
+04/12/24,"11:00-13:00",,"Lezione","Greenblatt","Integrali impropri, integrali di funzioni definite a tratti",10,2,2,0
+05/12/24,"11:00-13:00",,"Esercitazione","Fidaleo",,10,2,0,2
+09/12/24,"14:00-17:00",,"Lezione","Greenblatt","Equazioni differenziali e problemi di Cauchy.  Equazioni notevoli e le loro soluzioni.",11,3,3,0
+11/12/24,"11:00-13:00",,"Lezione","Greenblatt","Soluzioni generali e particolari. Manipolazione di soluzioni di equazioni differenziali.",11,2,2,0
+12/12/24,"11:00-13:00",,"Esercitazione","Greenblatt",,11,2,2,0
+"16/12/24","14:00-17:00",,"Lezione","Greenblatt","Ripasso",12,3,3,0
