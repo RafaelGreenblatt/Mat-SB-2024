@@ -21,11 +21,11 @@
 "18/11/24","14:00-17:00",,"Lezione","Greenblatt","Paragone fra limite (notazione “o piccolo”) e approssimazioni lineari e quadratiche. Derivate di quozienti,  Derivate di ordine superiore.  Estremi locali e globali.  Relazione fra derivate e estremi.",8,3,3,0
 "20/11/24","11:00-13:00",,"Lezione","Greenblatt","Derivate di funzioni composte e funzioni inverse.  Derivate di esponenziale, logaritmo naturale, funzioni trigonometriche.  Funzione trigonometriche inverse e le loro derivate.  La regola de l’Hôpital per il calcolo di limiti.",8,2,2,0
 "21/11/24","11:00-13:00",,"Esercitazione","Fidaleo",,8,2,0,2
-"25/11/24","14:00-17:00",,"Lezione","Greenblatt","Integrale definito, la sua relazione con la derivata (le teoremi fondamentali del calcolo), e proprietà",9,3,3,0
-"27/11/24","11:00-13:00",,"Lezione","Greenblatt","Integrale indefinito e primitive di una funzione.  Relazione fra integrali definiti ed indefiniti.  Tecniche di base del calcolo delle integrali, integrali di funzioni comuni.",9,2,2,0
+"25/11/24","14:00-17:00",,"Lezione","Greenblatt","Integrale indefinito e definito spiegato dalle loro relazione con la derivata.  Integrali di funzioni comuni e tecniche di base della valutazione di integrali.",9,3,3,0
+"27/11/24","11:00-13:00",,"Lezione","Greenblatt","Integrale definito come area orientata.  Definizione come somma di Riemann.  Manipolazione di integrali definiti, integrali di funzioni definite a tratti.",9,2,2,0
 "28/11/24","11:00-13:00",,"Esercitazione","Fidaleo",,9,2,0,2
 02/12/24,"14:00-17:00",,"Lezione","Greenblatt","Integrali per parti e per sostituzione,",10,3,3,0
-04/12/24,"11:00-13:00",,"Lezione","Greenblatt","Integrali impropri, integrali di funzioni definite a tratti",10,2,2,0
+04/12/24,"11:00-13:00",,"Lezione","Greenblatt","Integrali impropri",10,2,2,0
 05/12/24,"11:00-13:00",,"Esercitazione","Fidaleo",,10,2,0,2
 09/12/24,"14:00-17:00",,"Lezione","Greenblatt","Equazioni differenziali e problemi di Cauchy.  Equazioni notevoli e le loro soluzioni.",11,3,3,0
 11/12/24,"11:00-13:00",,"Lezione","Greenblatt","Soluzioni generali e particolari. Manipolazione di soluzioni di equazioni differenziali.",11,2,2,0
