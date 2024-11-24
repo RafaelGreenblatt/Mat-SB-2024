@@ -19,7 +19,10 @@ ol {list-style-type: lower-alpha;}
 
 Si trovino le eventuali estremi (massimi/minimi) delle funzioni seguenti, dicendo se sono estremi globali o locali.
 
-a. $f(x) = \frac{x^3+2x-2}{x}$
+a. $f(x) = x^4 - 4 x^3 - 8 x^2 +5$
+b. $g(x) = x^6 - 3 x^4$
+
+
 
 ## Esercizio
 
@@ -44,10 +47,10 @@ MORE FUNCTION STUDY - rational and composition w/transcendental (some from Damas
 
 Calcolare i seguenti limiti:
 
-a. $\lim_{x \to 0} \frac{1-\cos x}{x^2}$
-b. $\lim_{x \to 1} \frac{\sqrt{x+4}-2}x$
-c. $\lim_{x \to 2 \pi} \frac{\exp (\cos x -1) -1}{\sin^2 x}
-d. $\lim_{x \to 1/2} \frac{1 - 2x + \ln (2x)}{1 - 4 x + 4 x ^2}$
-e. $\lim_{x \to 0} \frac{e^x - 1}{x^2}$
+a. $$\lim_{x \to 0} \frac{1-\cos x}{x^2}$$
+b. $$\lim_{x \to 1} \frac{\sqrt{x+4}-2}x$$
+c. $$\lim_{x \to 2 \pi} \frac{\exp (\cos x -1) -1}{\sin^2 x}$$
+d. $$\lim_{x \to 1/2} \frac{1 - 2x + \ln (2x)}{1 - 4 x + 4 x ^2}$$
+e. $$\lim_{x \to 0^+} \frac{e^x - 1}{x^2}$$
 
 
