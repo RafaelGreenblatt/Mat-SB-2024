@@ -113,6 +113,7 @@ b. Che sono i limiti di $f$ agli estremi degli intervalli in cui è definito?
 c. Quali sono i estremi di $f$?  Per ognuno, specifica di quale tipo si tratta (massimo/minimo, locale/globale).
 d. Tracciare il grafico di $f$.
 
+::: details
 
 È utile scrivere il valore assoluto per tratti,
 $$
@@ -125,7 +126,6 @@ f(x) = \begin{cases}
 \end{cases}
 $$
 
-::: details
 
 a. $\boxed{(-\infty,0) \cup (0,\infty)}$
 b. $\lim_{\pm \infty} f(x) = \boxed{0}$, $\lim_{x \to 0} f(x) = \lim_{x \to 0} \frac{e^{-4}}{|x|} = \boxed{\infty}$

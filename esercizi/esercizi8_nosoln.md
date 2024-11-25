@@ -53,18 +53,6 @@ c. Quali sono i estremi di $f$?  Per ognuno, specifica di quale tipo si tratta (
 d. Tracciare il grafico di $f$.
 
 
-È utile scrivere il valore assoluto per tratti,
-$$
-f(x) = \begin{cases}
-\frac{e^{-(x-2)^2}}{x}
-, & x > 0
-\\
--\frac{e^{-(x-2)^2}}{x}
-, & x < 0.
-\end{cases}
-$$
-
-
 
 ## Esercizio
 
