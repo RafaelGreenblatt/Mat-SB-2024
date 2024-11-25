@@ -14,6 +14,22 @@ ol {list-style-type: lower-alpha;}
 
 # Esercizi - Settimana 9
 
+## Esecizio
+
+Si trovi una funzione $p$ tale che $p'(t) = e^{-3t} + t$.
+
+::: details
+$$
+\int (e^{-3t}+t) \, dt
+=
+\int e^{-3t} \, dt + \int t \, dt
+= -\frac13 e^{-3t} + \frac{t^2}{2} + C
+$$
+quindi una soluzione (fra tante) è
+$$
+p(t) = \boxed{-\frac13 e^{-3t} + \frac{t^2}{2}}.
+$$
+:::
 
 ## Esercizio
 
@@ -22,9 +38,9 @@ Si calcolino i seguenti integrali:
 a. $\int\left(\sqrt x - \frac1{\sqrt x} \right) \, d x$
 b. $\int\left(e^{2x} - \frac12 e^{x/2} \right) \, d x$
 c. $\int \frac{dx}{2x}$
-d. $\int \frac{x-1}{x^2} d x$
+d. $\int \frac{t-1}{t^2} d t$
 e. $\int_0^\pi (\sin x - \cos x) d x$
-f. $\int_0^{\pi/2} (x - \sin x) d x$
+f. $\int_0^{\pi/2} (y - \sin y) d y$
 
 ::: details
 
@@ -48,8 +64,8 @@ $$\int \frac{dx}{2x} = \frac12 \int \frac{dx}{x} = \boxed{\frac12 \ln x + C}$$
 
 d.
 $$
-\int \frac{x-1}{x^2} dx = \int \frac{dx}x - \int \frac{dx}{x^2}
-= \boxed{\ln x + \frac1x + C}.
+\int \frac{t-1}{t^2} dt = \int \frac{dt}t - \int \frac{dt}{t^2}
+= \boxed{\ln t + \frac1t + C}.
 $$
  
 e. Per cominciare, calcoliamo l'integrale indefinito
@@ -72,16 +88,16 @@ $$ \begin{split}
 
 f.
 $$
-\int (x-\sin x) dx 
+\int (y-\sin y) dy 
 = 
-\frac{x^2}2 + \cos x + C,
+\frac{y^2}2 + \cos y + C,
 $$
 quindi
 $$
-\int_0^{\pi/2} (x- \sin x) dx
+\int_0^{\pi/2} (y- \sin y) dy
 =
-\frac{x^2}2 + \cos x 
-\, \Bigg|_{x=0}^\pi
+\frac{y^2}2 + \cos y 
+\, \Bigg|_{y=0}^\pi
 =
 \boxed{\frac{\pi^2}8 - 1}.
 $$

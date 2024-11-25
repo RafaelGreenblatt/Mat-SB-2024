@@ -28,7 +28,7 @@ b. $g(x) = x^6 - 3 x^4$
 
 Sia 
 $$
-f(x)= \frac{x^2 + 2x}{x+1}
+f(x)= \frac{x^3 + 2x-2}{x}
 .
 $$
 
@@ -41,7 +41,30 @@ d. Tracciare il grafico di $f$.
 
 ## Esercizio
 
-MORE FUNCTION STUDY - rational and composition w/transcendental (some from Damascelli and/or old exams)
+Sia 
+$$
+f(x)= \frac{e^{-(x-2)^2}}{|x|}
+.
+$$
+
+a. Qual'è il dominio di $f$?
+b. Che sono i limiti di $f$ agli estremi degli intervalli in cui è definito?
+c. Quali sono i estremi di $f$?  Per ognuno, specifica di quale tipo si tratta (massimo/minimo, locale/globale).
+d. Tracciare il grafico di $f$.
+
+
+È utile scrivere il valore assoluto per tratti,
+$$
+f(x) = \begin{cases}
+\frac{e^{-(x-2)^2}}{x}
+, & x > 0
+\\
+-\frac{e^{-(x-2)^2}}{x}
+, & x < 0.
+\end{cases}
+$$
+
+
 
 ## Esercizio
 

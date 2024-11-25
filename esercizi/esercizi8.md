@@ -68,7 +68,7 @@ $$
 
 Sia 
 $$
-f(x)= \frac{x^2 + 2x}{x+1}
+f(x)= \frac{x^3 + 2x-2}{x}
 .
 $$
 
@@ -78,12 +78,80 @@ c. Quali sono i estremi di $f$?  Per ognuno, specifica di quale tipo si tratta (
 d. Tracciare il grafico di $f$.
 
 ::: details
-a. $f$ è definito per ogni $x$ tranne -1, 
+a. $f$ è definito per ogni $x$ tranne $0$, ovvero il suo dominio è $\boxed{(-\infty,0) \cup (0,\infty)}$. 
+b. $$ \lim_{x \to \pm \infty} f(x) = \lim_{x \to \pm \infty} x^2 = \boxed{\pm \infty};$$
+poi visto che il denominatore di $f(x)$ vale $-2$ in $x=0$,
+$$ 
+\lim_{x \to 0^-} f(x) 
+=
+\lim_{x \to 0^-} \frac{-2}{x} = \boxed{\infty}
+, \quad 
+\lim_{x \to 0^+} f(x) 
+=
+\lim_{x \to 0^+} \frac{-2}{x} = \boxed{- \infty}
+$$
+c. $$ f'(x) = \frac{(3 x^2+2)x - x^3+2x-2}{x^2} = \frac{2 x^3 +2}{x^2},$$
+allora c'è un unico punto stazionario in $x=-1$, e nessun punto di non-derivabilità nel dominio.  Evidentemente $f'(x) < 0$ se $x < -1$ e $f'(x) >0$ se $x \in (-1,0)$, allora $f$ ha
+$$
+\boxed{\textup{un minimo locale in } x = -1, \ f(-1) = 5}
+$$
+(visto i limiti, è necessariamente solo un minimo locale).
+d. ![](E82.jpg)
+
 :::
 
 ## Esercizio
 
-MORE FUNCTION STUDY - rational and composition w/transcendental (some from Damascelli and/or old exams)
+Sia 
+$$
+f(x)= \frac{e^{-(x-2)^2}}{|x|}
+.
+$$
+
+a. Qual'è il dominio di $f$?
+b. Che sono i limiti di $f$ agli estremi degli intervalli in cui è definito?
+c. Quali sono i estremi di $f$?  Per ognuno, specifica di quale tipo si tratta (massimo/minimo, locale/globale).
+d. Tracciare il grafico di $f$.
+
+
+È utile scrivere il valore assoluto per tratti,
+$$
+f(x) = \begin{cases}
+\frac{e^{-(x-2)^2}}{x}
+, & x > 0
+\\
+-\frac{e^{-(x-2)^2}}{x}
+, & x < 0.
+\end{cases}
+$$
+
+::: details
+
+a. $\boxed{(-\infty,0) \cup (0,\infty)}$
+b. $\lim_{\pm \infty} f(x) = \boxed{0}$, $\lim_{x \to 0} f(x) = \lim_{x \to 0} \frac{e^{-4}}{|x|} = \boxed{\infty}$
+c. Visto $\frac{d}{dx}[-(x-2)^2] = -2 (x-2)$ ed allora $\frac{d}{dx}e^{-(x-2)^2} = -2 (x-2) e^{-(x-2)^2}$,
+$$ f'(x) 
+= \begin{cases}
+\frac{(-2 (x-2) e^{-(x-2)^2})x -  e^{-(x-2)^2}}{x^2}
+, & x > 0
+\\
+-\frac{(-2 (x-2) e^{-(x-2)^2})x -  e^{-(x-2)^2}}{x^2}
+, & x > 0
+\end{cases}
+= \begin{cases}
+\frac{(-2 x^2 + 4x - 1)e^{-(x-2)^2}}{x^2}
+, & x > 0
+\\
+-\frac{(-2 x^2 + 4x - 1)e^{-(x-2)^2}}{x^2}
+, & x > 0;
+\end{cases}
+$$
+i punti stazionari sono le soluzioni di $2 x^2 - 4x +1 = 0$, ovvero $x = 1 \pm \sqrt2/2$, ambedue positivi, con valori positivi (quindi nessuno delle due un estrom globale, visto i limiti trovati sopra).  Esaminando il segno di $f'(x)$, $f$ ha
+$$
+\boxed{\textup{un minimo locale in } x = 1-\sqrt2/2, \textup{ un massimo locale in } 1 + \sqrt2/2.}
+$$
+d. ![](E83.jpg)
+:::
 
 ## Esercizio
 
@@ -129,6 +197,7 @@ $$
 \lim_{x \to 1/2} \frac{-2x+ 1)}{ 8 x^2- 4x };
 $$
 questo è di nuovo una forma indeterminata, che si può risolvere semplificando la quoziento oppure applicando di nuovo la regola de l'Hôpital per ottenere $\boxed{-1/4}$.
+
 e. 
 $$
 \lim_{x \to 0^+} \frac{e^x - 1}{x^2}
