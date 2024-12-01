@@ -26,6 +26,14 @@ L'intenzione è di dare uno stimolo per lo studio e di dare un'idea delle tipolo
   Settimana {{week.week}}: <a v-bind:href="'esercizi/domande'+week.week+'.html'"> domande</a>
   </div>
  </li>
+ <li v-else-if='week.exercises'>
+  <div v-if='week.solutions'>
+  Settimana {{week.week}}: <a v-bind:href="'esercizi/esercizi'+week.week+'_nosoln.html'">esercizi</a>, <a v-bind:href="'esercizi/esercizi'+week.week+'.html'">esercizi (con soluzioni)</a>
+  </div>
+  <div v-else>
+  Settimana {{week.week}}: <a v-bind:href="'esercizi/esercizi'+week.week+'_nosoln.html'">esercizi</a>
+  </div>
+ </li>
 </div>
 </ul>
 
