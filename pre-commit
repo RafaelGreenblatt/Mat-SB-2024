@@ -5,7 +5,7 @@
 # it wants to stop the commit.
 #
 
-for filename in esercizi/esercizi?.md; do
+for filename in esercizi/esercizi*.md; do
     perl -0777 -pe 's/:::\s*details.*?::://gs' <$filename> "esercizi/$(basename "$filename" .md)_nosoln.md"
 done
 
