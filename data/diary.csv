@@ -28,6 +28,6 @@ date,time,room,type,docente,topic,week,hours,hours_RLG,hours_FF
 04/12/24,11:00-13:00,,Lezione,Greenblatt,Integrali impropri,10,2,2,0
 05/12/24,11:00-13:00,,Esercitazione,Fidaleo,,10,2,0,2
 09/12/24,14:00-17:00,,Lezione,Greenblatt,Equazioni differenziali – introduzione generale.  Diagrammi di flusso. Trasformazione di equazioni.  Equazione logistica.,11,3,3,0
-11/12/24,11:00-13:00,,Lezione,Greenblatt,"Condizioni iniziali, problemi di Cauchy, esistenza di soluzioni (teorema di Cauchy-Kowaleskaja).  Soluzioni generali e particolari.",11,2,2,0
-12/12/24,11:00-13:00,,Lezione,Greenblatt,Equazioni differenziali lineari e sistemi di equazioni lineari,11,2,2,0
+11/12/24,11:00-13:00,,Lezione,Greenblatt,"Condizioni iniziali, problemi di Cauchy, esistenza di soluzioni (teorema di Cauchy-Kowaleskaja).  Metodo di Eulero.  Soluzioni generali e particolari.",11,2,2,0
+12/12/24,11:00-13:00,,Lezione,Greenblatt,Equazioni differenziali lineari e sistemi di equazioni differenziali,11,2,2,0
 16/12/24,14:00-17:00,,Esercitazione,Greenblatt,,12,3,3,0
