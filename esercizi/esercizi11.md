@@ -16,64 +16,60 @@ ol {list-style-type: lower-alpha;}
 
 ## Esercizio
 
-Trovare la soluzione del problema di Cauchy
-$$ 
-\begin{cases}
-\frac{dP}{dt} = \frac12 P(t) - 3 [P(t)]^2,
-\\
-P(0) = 1,
-\end{cases}
+Si dice quali delle tre formule
 $$
-e valutare $\lim_{t \to \infty} P(t)$.
-
-Consiglio: la soluzione ha la forma
+A. \ y=\pi e^{-\cos x}
+\quad
+B. \ y= e^{x^2/2}
+\quad
+C. \ y= \frac1{1-x}
 $$
-P(t)
-=
-\frac{a e^{bt}}{c+e^{bt}}
+è la soluzione di quale delle seguenti equazioni differenziali:
 $$
-per certi $a,b,c \in \bR$.
+\textup{I}.\ 
+y'= y^2 
+\quad 
+\textup{II}.\ 
+y' = y  \sin x
+\quad
+\textup{III}.\ 
+y' = xy
+$$
 
 ::: details
-Usando la forma consigliata,
+Per $A.$,
 $$
-P'(t)
+\frac{dy}{dx}
 =
-\frac{a b e^{bt} (c+e^{bt}) - ab e^{2 bt}}{(c+ e^{bt})^2}
+\frac{d}{dx} [\pi e^{-\cos x}]
 =
-\frac{a b e^{bt}}{c+e^{bt}} - \frac{ab e^{2 bt}}{(c+ e^{bt})^2}
+\pi \sin x e^{-\cos x}
 =
-b P(t) - \frac{b}{a} P^2(t)
+y \sin x,
 $$
-e $P(0) = a/(c+1)$, e inserendo nel problema posta occorre
+cioe $\boxed{\textup{II}}$;
+per $B.$,
 $$
-\begin{cases}
-b = 1/2
-, \\
-b / a = 3
-, \\
-\frac{a}{c+1} = 1
-\end{cases}
-\Leftrightarrow
-\begin{cases}
-a = 1/6
-, \\
-b = 1/2
-, \\
-c = -5/6
-\end{cases}
-$$
-ovvero
-$$
-P(t) = \boxed{ \frac{e^{t/2}}{6 e^{t/2}-5}};
-$$
-allora
-$$
-\lim_{t \to \infty} P(t) 
+\frac{dy}{dx}
 =
-\boxed{1/6}
-.
+\frac{d}{dx} [ e^{x^2/2}]
+=
+x e^{x^2/2}
+=
+xy,
 $$
+cioe $\boxed{\textup{III}}$;
+per $C.$,
+$$
+\frac{dy}{dx}
+=
+\frac{d}{dx} \frac1{1-x}
+=
+- \frac{-1}{(1-x)^2}
+=
+y^2,
+$$
+cioe $\boxed{\textup{I}}$;
 :::
 
 ## Esercizio
@@ -143,5 +139,68 @@ z(x)
 $$
 c. Questa soluzione non è definito in $x=0$; essendo le condizioni iniziali dati con $x = -1$, il dominio è $\boxed{(-\infty,0)}$.
 :::
+## Esercizio
+
+
+Trovare la soluzione del problema di Cauchy
+$$ 
+\begin{cases}
+\frac{dP}{dt} = \frac12 P(t) - 3 [P(t)]^2,
+\\
+P(0) = 1,
+\end{cases}
+$$
+e valutare $\lim_{t \to \infty} P(t)$.
+
+Consiglio: la soluzione ha la forma
+$$
+P(t)
+=
+\frac{a e^{bt}}{c+e^{bt}}
+$$
+per certi $a,b,c \in \bR$.
+
+::: details
+Usando la forma consigliata,
+$$
+P'(t)
+=
+\frac{a b e^{bt} (c+e^{bt}) - ab e^{2 bt}}{(c+ e^{bt})^2}
+=
+\frac{a b e^{bt}}{c+e^{bt}} - \frac{ab e^{2 bt}}{(c+ e^{bt})^2}
+=
+b P(t) - \frac{b}{a} P^2(t)
+$$
+e $P(0) = a/(c+1)$, e inserendo nel problema posta occorre
+$$
+\begin{cases}
+b = 1/2
+, \\
+b / a = 3
+, \\
+\frac{a}{c+1} = 1
+\end{cases}
+\Leftrightarrow
+\begin{cases}
+a = 1/6
+, \\
+b = 1/2
+, \\
+c = -5/6
+\end{cases}
+$$
+ovvero
+$$
+P(t) = \boxed{ \frac{e^{t/2}}{6 e^{t/2}-5}};
+$$
+allora
+$$
+\lim_{t \to \infty} P(t) 
+=
+\boxed{1/6}
+.
+$$
+:::
+
 
 
