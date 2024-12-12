@@ -57,15 +57,19 @@ Ambedue conengono materiale che non sarà incluso in questo corso ma che vi potr
 
 ## Valutazione
 
-Il voto del corso è assegnato in base di un esame scritto. *Si nota che l'esame sarà riorganizzato rispetto aglii anni precedenti*, e quindi esami vecchi possono dare un'impressione fuorviante di quello che vi aspetta.  Un esame modello sarà caricato qua prima del periodo degli esami.  L'esame (testo, politiche, date ed orari) è uguale per tutte e due i canali del corso.
+Il voto del corso è assegnato in base di un esame scritto. *Si nota che il contenuto dell'esame sarà riorganizzato rispetto aglii anni precedenti*, e quindi esami vecchi possono dare un'impressione fuorviante di quello che vi aspetta.  Un esame modello sarà caricato qua prima del periodo degli esami.  L'esame (testo, politiche, date ed orari) è uguale per tutte e due i canali del corso.
 
 Ci saranno sei appelli di esame:
-- 15 gennaio 2025, ore 14.00
-- 30 gennaio 2025, ore 14.00
-- 20 febbraio 2025, ore 14.00
-- 9 giugno 2025, ore 10.00
-- 14 luglio 2025, ore 10.00
-- 25 settembre 2025, ore 10.00
+- 15 gennaio 2025, ore 14.00, Aula T7 (prenotazioni dal 2 al 10 gennaio)
+- 30 gennaio 2025, ore 14.00, Aula T7 (prenotazioni dal 20 al 27 gennaio)
+- 20 febbraio 2025, ore 14.00, Aula T7 (prenotazioni dal 3 al 13 febbraio)
+- 9 giugno 2025, ore 10.00, aula da definire (prenotazioni dal 26 maggio al 4 giugno)
+- 14 luglio 2025, ore 10.00, aula da definire (prenotazioni dal 30 giugno al 10 luglio)
+- 25 settembre 2025, ore 10.00, aula da definire (prenotazioni dal 8 al 22 settembre)
+
+Ricordate che è necessario prenotare su [Delphi][Delphi] prima dell'esame; le prenotazioni saranno aperte nei periodi indicati sopra per ogni appello.
+
+[Delphi]:https://delphi.uniroma2.it/
 
 Come per i altri corsi del primo anno, non sono previsti appelli straordinari per studenti fuori corso.
 
