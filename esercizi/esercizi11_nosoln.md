@@ -57,6 +57,7 @@ $$
 c. Qual'è il dominio di definizione di questa soluzione particolare?
 
 
+
 ## Esercizio
 
 
@@ -80,5 +81,45 @@ per certi $a,b,c \in \bR$.
 
 
 
+
+## Esercizio
+
+Si consideri l'equazione differenziale
+$$
+y''-y'-2y = 4
+.
+$$
+
+a. Si trovi una soluzione particolare dell'equazione. (Consiglio: l'equazione ammette una soluzione di equilibrio, cioè una soluzione costante).
+b. Si trovino due soluzioni independenti della relativa equazione omogenea. (Consiglio: provare la forma $y(t) = \exp(kt)$, e, se non basta, $y(t) = t \exp(k t)$ con lo stesso valore di $k$.)
+c. Usando i risultati di sopra, si scrivi la soluzione generale.
+d. Finalmente, si trovi la soluzione del problema di Cauchy
+$$
+\begin{cases}
+y''-y'-2y = 4
+\ , \\
+y(0)=1
+\ , \\
+y'(0) = 3
+\ .
+\end{cases}
+$$
+
+
+
+
+## Esercizio
+
+Con lo stesso procedimento dell'esercizio precedente, si risolvi il problema di Cauchy
+$$
+\begin{cases}
+y'' + 4 y' + 4 y = 8 
+\ , \\
+y(0) = 3
+\ , \\
+y'(0) = 0
+\ .
+\end{cases}
+$$
 
 
