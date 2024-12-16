@@ -333,3 +333,163 @@ y(t) = 2 + e^{-2t} + 2 t e^{-2t}
 }.
 $$
 :::
+
+
+## Esercizio
+
+Trovi la soluzione $x(t),y(t)$ al problema di Cauchy
+$$
+\begin{cases}
+x' = -x + y 
+\ , \\
+y' = x-y
+\ , \\
+x(0) = 2
+\ , \\
+y(0) = 1
+\end{cases}
+$$
+
+Consiglio: elimina una delle variabili; l'equazione di secondo grado che risulta ha due soluzioni della forma $e^{kt}$ con valori distinti di $k$.
+
+::: details
+
+Usando la seconda equazione, abbiamo
+$$
+y' = x-y \Rightarrow x = y' + y \Rightarrow x' = y'' + y'
+\ ;
+$$
+sostituendo nell'altra equazione differenziale abbiamo
+$$
+y'' + 2 y' = 0 \ .
+$$
+Poi provando $y(t) = e^{kt}$,
+$$
+k^2 e^{kt} + 2 k e^{kt} = 0
+\Rightarrow
+k^2 + 2 k = 0
+\Rightarrow
+k = 0, -2
+\ ,
+$$
+quindi la soluzione generale $y(t) = C_1 + C_2 e^{-2t}$.
+
+Per le condizioni iniziali,
+$$
+\begin{cases}
+x = y' + y
+\ , \\
+x(0) = 2
+\ , \\
+y(0) =1
+\end{cases}
+\Rightarrow
+\begin{cases}
+2 = y'(0) + y(0)
+\ , \\
+y(0) = 1
+\end{cases}
+\Rightarrow
+\begin{cases}
+y(0) = 1
+\ , \\
+y'(0) = 1
+\end{cases}
+$$
+e poi
+$$
+y(t) = \boxed{ \frac32 - \frac12 e^{-2t}}
+;
+$$
+poi usando questo insieme con $x = y'+y$, finalmente
+$$
+x(t) = \boxed{ \frac32 + \frac12 e^{-2t}}.
+$$
+:::
+
+
+
+## Esercizio
+
+Trovi la soluzione $x(t),y(t)$ al problema di Cauchy
+$$
+\begin{cases}
+x' = x-3y
+\ , \\
+y' = 2x - 4y
+\ , \\
+x(0) = 6
+\ , \\
+y(0) = 5
+\end{cases}
+$$
+
+Consiglio: elimina una delle variabili; l'equazione di secondo grado che risulta ha due soluzioni della forma $e^{kt}$ con valori distinti di $k$.
+
+
+Usando la prima equazione, abbiamo
+$$
+x' = x-3y \Rightarrow y = \frac{x-x'}3 \Rightarrow x' = \frac{x'-x''}3
+\ ;
+$$
+sostituendo nell'altra equazione differenziale abbiamo
+$$
+y' = \frac{x'}3 - \frac{x''}3
+=
+2x - \frac43 x + \frac43 x'
+=
+\frac23 x + \frac43 x'
+\Rightarrow x' - x'' = 2x + 4x'
+\Rightarrow x''+3x'+2x = 0
+$$
+Poi provando $x(t) = e^{kt}$,
+$$
+k^2 e^{kt} + 3 k e^{kt} + 2 e^{kt} = 0
+\Rightarrow
+k^2 + 3 k + 2 = 0
+\Rightarrow
+k = -1,-2
+\ ,
+$$
+quindi la soluzione generale $x(t) = C_1 e^{-t}+ C_2 e^{-2t}$.
+
+Per le condizioni iniziali,
+$$
+\begin{cases}
+y(0) = \frac{x(0)}3 - \frac{x'(0)}3 = 2 - \frac{x'(0)}3 = 5
+\Rightarrow
+x'(0)=-9
+\end{cases}
+$$
+e quindi 
+$$
+\begin{cases}
+x(t) = C_1 e^{-t}+ C_2 e^{-2t}
+\ , \\
+x(0) = 6
+\ , \\
+x'(0) = -9
+\end{cases}
+\Rightarrow
+\begin{cases}
+C_1 + C_2 = 6
+\ , \\
+-C_1 - 2 C_2 = -9
+\end{cases}
+\Rightarrow
+\begin{cases}
+C_1 = 3
+\ , \\
+C_2 = 3
+\end{cases}
+$$
+cioè
+$$
+x(t) = \boxed{ 3 e^{-t} + 3 e^{-2t}}
+;
+$$
+poi ricordando  $y = \frac13 x - \frac13 x'$, finalmente
+$$
+y(t) = \boxed{  3 e^{-t} + 2 e^{-2t}}.
+$$
+:::
