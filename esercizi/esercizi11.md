@@ -427,6 +427,7 @@ $$
 Consiglio: elimina una delle variabili; l'equazione di secondo grado che risulta ha due soluzioni della forma $e^{kt}$ con valori distinti di $k$.
 
 
+:::details
 Usando la prima equazione, abbiamo
 $$
 x' = x-3y \Rightarrow y = \frac{x-x'}3 \Rightarrow x' = \frac{x'-x''}3
