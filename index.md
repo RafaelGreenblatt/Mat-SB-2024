@@ -63,9 +63,9 @@ Ci saranno sei appelli di esame:
 - 15 gennaio 2025, ore 14.00, Aula T7 (prenotazioni dal 2 al 10 gennaio)
 - 30 gennaio 2025, ore 14.00, Aula T7 (prenotazioni dal 20 al 27 gennaio)
 - 20 febbraio 2025, ore 14.00, Aula T7 (prenotazioni dal 3 al 13 febbraio)
-- 9 giugno 2025, ore 10.00, aula da definire (prenotazioni dal 26 maggio al 4 giugno)
-- 14 luglio 2025, ore 10.00, aula da definire (prenotazioni dal 30 giugno al 10 luglio)
-- 25 settembre 2025, ore 10.00, aula da definire (prenotazioni dal 8 al 22 settembre)
+- 9 giugno 2025, ore 10.00, Aula T8 (prenotazioni dal 26 maggio al 4 giugno)
+- 14 luglio 2025, ore 10.00, Aula T8 (prenotazioni dal 30 giugno al 10 luglio)
+- 25 settembre 2025, ore 10.00, Aula T8 (prenotazioni dal 8 al 22 settembre)
 
 Ricordate che è necessario prenotare su [Delphi][Delphi] prima dell'esame; le prenotazioni saranno aperte nei periodi indicati sopra per ogni appello.
 
@@ -75,3 +75,11 @@ Come per i altri corsi del primo anno, non sono previsti appelli straordinari pe
 
 
 Per politica del corso di laurea, gli studenti con obbligazioni di formazione aggiuntiva in matematica (vedi pagina 2 [Guida Didattica][GD]) devono assolvere tale obbligo prima di sostenere l'esame, ma sono vivamente invitati a partecipare nelle lezioni ed esercitazioni.
+
+### Svolgimento dell'esame
+
+- L’esame avrà una durata massima di 3 ore.
+- Il compito consisterà in alcuni esercizi da svolgere che riguardono vari argomenti principali del corso.  Per ognuno, dovrete consegnare lo svolgimento, anche parziale perché vi permette di avere comunque un punteggio parziale.
+- Per verificare la comprensione della teoria, non saranno poste domande separate, al contrario di quanto precedentemente annunciato.  La comprensione teorica sarà valutata tramite lo svolgimento degli esercizi (e possibilimente tramite domande incorporate negli esercizi stessi).
+- Potete portare (e usare, ovviamente) un formulario di al massimo 10 fogli A4.
+- Potete portare una calcolatrice, ma nessun altro dispositivo elettronico (e soprattutto nessun dispositivo che si collega ad internet).
