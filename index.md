@@ -57,7 +57,9 @@ Ambedue conengono materiale che non sarà incluso in questo corso ma che vi potr
 
 ## Valutazione
 
-Il voto del corso è assegnato in base di un esame scritto. *Si nota che il contenuto dell'esame sarà riorganizzato rispetto aglii anni precedenti*, e quindi esami vecchi possono dare un'impressione fuorviante di quello che vi aspetta.  Un esame modello sarà caricato qua prima del periodo degli esami.  L'esame (testo, politiche, date ed orari) è uguale per tutte e due i canali del corso.
+Il voto del corso è assegnato in base di un esame scritto, con un compito simile all'[esame modello presentato qua](./sample_testi.pdf) in termine di struttura e difficoltà (ci sarà necessariamente una certa variazione in dettaglio dei argomenti; _l'esame modello non è esaustivo_ in termini dei tipi di esercizi da svolgere).
+L'esame (testo, politiche, date ed orari) è uguale per tutte e due i canali del corso ma può essere svolto in aule diverse secondo il numero dei partecipanti.
+
 
 Ci saranno sei appelli di esame:
 - 15 gennaio 2025, ore 14.00, Aula T7 (prenotazioni dal 2 al 10 gennaio)
