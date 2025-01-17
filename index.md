@@ -64,7 +64,7 @@ L'esame (testo, politiche, date ed orari) è uguale per tutte e due i canali del
 
 
 Ci saranno sei appelli di esame:
-- 15 gennaio 2025, ore 14.00, Aula T7 (prenotazioni dal 2 al 10 gennaio) - [risultati](risultati/risultati1)
+- 15 gennaio 2025, ore 14.00, Aula T7 (prenotazioni dal 2 al 10 gennaio) - [risultati](results/results1)
 - 30 gennaio 2025, ore 14.00, Aula T7 (prenotazioni dal 20 al 27 gennaio)
 - 20 febbraio 2025, ore 14.00, Aula T7 (prenotazioni dal 3 al 13 febbraio)
 - 9 giugno 2025, ore 10.00, Aula T8 (prenotazioni dal 26 maggio al 4 giugno)
