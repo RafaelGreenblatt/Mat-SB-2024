@@ -73,6 +73,7 @@ export default defineConfig({
         { text: "Programma/Diario delle lezioni", link: "diary"},
         { text: "Domande ed esercizi", link: "esercizi"},
         { text: "Risultati del 1º appello", link: "results/results1"}
+        ,{ text: "Risultati del 2º appello", link: "results/results2"}
     ],
 
     locales: {

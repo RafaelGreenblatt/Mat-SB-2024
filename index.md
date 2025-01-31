@@ -1,7 +1,7 @@
 
 # Matematica - Canale M-Z (Corso di Laurea Triennale in Scienze Biologiche, a.a. 2024-5)
 
-[**I risultati del primo appello si trovano qua.**](results/results1)
+[**I risultati del secondo appello si trovano qua.**](results/results2)
 
 [Il sito del canale A-L si trova qui.](https://www.mat.uniroma2.it/~radulesc/matematica.html)
 

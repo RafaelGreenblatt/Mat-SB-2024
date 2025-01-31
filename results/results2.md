@@ -1,12 +1,13 @@
 <!-- Source data can be edited in /data/*.csv -->
+<!-- Remember: no string delimiters in CSV!  Important!-->
 
 <script setup>
 import { data } from '/data/csv.data.ts'
 
-const results = data.results1;
+const results = data.results2;
 </script>
 
-# Risultati di appello I (15 gennaio 2025)
+# Risultati di appello II (30 gennaio 2025)
 
 I risultati dell'esame scritto (voto su 30 o altro esito) vengono riportati di seguito.  Gli studenti sono identificati con le ultime 4 cifre del numero di matricola e la prima lettera del cognome.
 
@@ -14,7 +15,7 @@ In assenza di diversa comunicazione  da parte dell'interressato/a all'indirizzo 
 
 [Delphi]:https://delphi.uniroma2.it/
 
-La verbalizzazione è conclusa il 28 gennaio.
+Gli esami consegnati possono essere consultati su appuntamento.  La conclusione della verbalizzazione è prevista per il 7 febbraio circa ma questa data puó variare.
 
 <table>
  <tr>
