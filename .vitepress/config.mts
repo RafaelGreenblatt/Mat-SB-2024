@@ -74,6 +74,7 @@ export default defineConfig({
         { text: "Domande ed esercizi", link: "esercizi"},
         { text: "Risultati del 1º appello", link: "results/results1"}
         ,{ text: "Risultati del 2º appello", link: "results/results2"}
+        ,{ text: "Risultati del 3º appello", link: "results/results3"}
     ],
 
     locales: {
