@@ -75,6 +75,7 @@ export default defineConfig({
         { text: "Risultati del 1º appello", link: "results/results1"}
         ,{ text: "Risultati del 2º appello", link: "results/results2"}
         ,{ text: "Risultati del 3º appello", link: "results/results3"}
+        ,{ text: "Risultati del 4º appello", link: "results/results4"}
     ],
 
     locales: {
