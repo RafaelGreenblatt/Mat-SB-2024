@@ -68,7 +68,7 @@ Ci saranno sei appelli di esame:
 - 30 gennaio 2025, ore 14.00, Aula T7 (prenotazioni dal 20 al 27 gennaio) - [risultati](results/results2)
 - 20 febbraio 2025, ore 14.00, Aula T7 (prenotazioni dal 3 al 13 febbraio) - [risultati](results/results3)
 - 9 giugno 2025, ore 10.00, Aula T8 (prenotazioni dal 26 maggio al 4 giugno) - [risultati](results/results4)
-- 14 luglio 2025, ore 10.00, Aula T8 (prenotazioni dal 30 giugno al 10 luglio)
+- 14 luglio 2025, ore 10.00, Aula T8 (prenotazioni dal 30 giugno al 10 luglio) - [risultati](results/results5)
 - 25 settembre 2025, ore 10.00, Aula T8 (prenotazioni dal 8 al 22 settembre)
 
 Ricordate che è necessario prenotare su [Delphi][Delphi] prima dell'esame; le prenotazioni saranno aperte nei periodi indicati sopra per ogni appello.
