@@ -1,7 +1,7 @@
 
 # Matematica - Canale M-Z (Corso di Laurea Triennale in Scienze Biologiche, a.a. 2024-5)
 
-[**I risultati del quinto appello si trovano qua.**](results/results5)
+[**I risultati del sesto appello si trovano qua.**](results/results6)
 
 [Il sito del canale A-L si trova qui.](https://www.mat.uniroma2.it/~radulesc/matematica.html)
 
@@ -69,7 +69,7 @@ Ci saranno sei appelli di esame:
 - 20 febbraio 2025, ore 14.00, Aula T7 (prenotazioni dal 3 al 13 febbraio) - [risultati](results/results3)
 - 9 giugno 2025, ore 10.00, Aula T8 (prenotazioni dal 26 maggio al 4 giugno) - [risultati](results/results4)
 - 14 luglio 2025, ore 10.00, Aula T8 (prenotazioni dal 30 giugno al 10 luglio) - [risultati](results/results5)
-- 25 settembre 2025, ore 10.00, Aula T8 (prenotazioni dal 8 al 22 settembre)
+- 25 settembre 2025, ore 10.00, Aula T8 (prenotazioni dal 8 al 22 settembre) - [risultati](results/results6)
 
 Ricordate che è necessario prenotare su [Delphi][Delphi] prima dell'esame; le prenotazioni saranno aperte nei periodi indicati sopra per ogni appello.
 
