@@ -41,7 +41,7 @@ export default defineConfig({
   title: "Matematica (M-Z, 2024, Scienze Biologiche)",
   lang: 'it-IT',
   description: "Pagina del corso di Matematica per il corso di Laurea in Scienze Biologiche, canale M-Z, anno accademico 2024-5",
-  base: '/~greenblatt/matbio24/',
+  base: process.env.VITEPRESS_BASE ?? '/~greenblatt/matbio24/',
   lastUpdated: true,
   
    markdown: {
